@@ -1,0 +1,13 @@
+{
+  "name": "前沿 · AI 日报",
+  "short_name": "AI 日报",
+  "description": "聚合全球 AI 与软件前沿信号，AI 深度评论+学习路径，每天 19:00 自动更新",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#22d3ee",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-21",
+  "generatedBy": "WorkBuddy AI Daily",
+  "headline": "2026-07-21：开源大模型（Kimi K3 / DeepSeek V4）以极致工程与颠覆性定价改写全球格局，Agent 从写代码跃迁到自我改进的系统。",
+  "takeaways": [
+    "今天最该做的：用 Kimi K3 / DeepSeek V4 跑一个你自己的长上下文+代码基准对照，把模型选型从季度评审压缩到周级。",
+    "把团队最耗时的一个工程环节（建模/调参/批处理）改造成规格 + 多 Agent 协作 + 自我改进循环，别再手写单行 Prompt。",
+    "给所有拥有终端/文件权限的 Coding Agent 套上沙箱与最小权限，按 arXiv:2607.05743 的 17 类做一次执行安全体检。",
+    "若涉及端侧或手机 AI，立刻把网信办备案要求拉进产品里程碑，别等上线才补合规。"
+  ],
+  "hotspots": [
+    {
+      "id": "kimi-k3-2.8t-open-source",
+      "title": "Kimi K3 发布：2.8 万亿参数开源模型登顶 Code Arena",
+      "source": "华尔街见闻 / Moonshot AI",
+      "category": "AI大模型",
+      "summary": "月之暗面发布 2.8 万亿参数开源模型 Kimi K3，基于 KDA 混合线性注意力机制，原生支持视觉理解与 100 万 token 上下文；在 Front-end Code Arena 以 76% 胜率登顶，Artificial Analysis 智能指数 57 分仅次于 Claude Fable 5 与 GPT-5.6 Sol。上线 48 小时后因算力过载暂停 C 端新用户订阅。",
+      "thinking": "K3 的意义不在参数规模，而在于它用标准 Transformer 加极致数据精炼的工程能力逼近了闭源旗舰，并以开源权重打破了 OpenAI/Anthropic 的前沿双头垄断。更关键的是它把前沿智能的保鲜期压缩到数周，迫使企业重新评估模型选型节奏。但算力过载暂停订阅也暴露出开源权重的免费与 API 服务的稀缺之间的割裂。",
+      "learning": [
+        "在本地或私有化环境拉起 Kimi K3 权重，评估其在长上下文与代码任务上的真实表现",
+        "把模型评估流程自动化、周期缩短到以周为单位，避免选型落后于迭代",
+        "关注 KDA 混合线性注意力等架构，思考其在降低推理成本上的可迁移性"
+      ],
+      "importance": "high",
+      "link": "https://www.toutiao.com/article/7664889892316512795"
+    },
+    {
+      "id": "deepseek-v4-peak-valley-pricing",
+      "title": "DeepSeek V4 满血版发布：用峰谷电价重新定价 AI 推理",
+      "source": "cnblogs 技术博客 / DeepSeek",
+      "category": "AI大模型",
+      "summary": "DeepSeek V4 满血版于 7 月 21 日发布，首批评测显示整体接近 Opus 4.8 级别、编码能力直追 GPT-5.6 Sol。其定价采用动态峰谷计价：V4 Pro 百万输出 token 平峰 0.87 美元、高峰 1.74 美元；V4 Flash 平峰 0.28 美元、高峰 0.56 美元，约为 Fable 5 的 0.5% 到 3.5%。",
+      "thinking": "峰谷计价是 AI 推理从奢侈品转向基础设施的标志性信号——只有被全社会高频使用、需求可预测的资源才会用动态电价优化分配。对东亚开发者而言，低谷时段恰好对应美西深夜，形成结构性成本优势。但这也意味着团队需要重新审视批处理与评测排程，把算力成本纳入调度策略而非固定预算。",
+      "learning": [
+        "重新设计批处理与评测任务的运行时间窗口，利用低谷时段降低成本",
+        "为团队建立按峰谷的成本核算模型，而非按月固定预算",
+        "把 DeepSeek V4 纳入闭源旗舰的对照基准，量化其性价比边界"
+      ],
+      "importance": "high",
+      "link": "https://www.cnblogs.com/htai/p/21713465"
+    },
+    {
+      "id": "sensnova-u1-pro-unified-multimodal",
+      "title": "商汤发布 U1 Pro：把理解-生成-行动塞进同一套表征空间",
+      "source": "机器之心 / 商汤科技（WAIC 2026）",
+      "category": "AI大模型",
+      "summary": "商汤在 WAIC 2026 发布面向长程任务的交付级原生多模态智能体基座 SenseNova U1 Pro，采用 NEO-unify 原生统一架构，让理解、生成、编辑共享同一表征空间；此前开源的 SenseNova-Vision 将目标检测、分割、深度预测、三维重建沉淀为通用大模型原生能力。",
+      "thinking": "多模态长期陷于搭积木式拼接，任务链越长信息衰减越严重（听懂了但画不对）。U1 Pro 用 MoT 统一架构把多任务收敛到同一表征，本质是把 Agentic Creation 从口号变成架构约束。对做视觉内容生产、工业设计、机器人感知的团队，原生统一多模态会比多个专家模型拼管道更省误差、更易交付。",
+      "learning": [
+        "评估 NEO-unify / MoT 类统一架构是否适用于你的多模态流水线",
+        "把长程创作任务拆成可检查、可修正的 Agent 循环，而非单次生成",
+        "关注 SenseNova-Vision 开源权重在 CV 经典任务上的零样本替代潜力"
+      ],
+      "importance": "medium",
+      "link": "https://k.sina.com.cn/article_5952915705_162d248f906703f3d4.html"
+    },
+    {
+      "id": "hunyuan-hyra-recursive-self-improvement",
+      "title": "腾讯混元 Hyra：会递归自我改进的科学发现智能体",
+      "source": "IT之家 / 腾讯混元",
+      "category": "Agent与智能体",
+      "summary": "腾讯混元发布 Hyra-1.0，一个能递归自我改进、面向性能导向研究与工程任务的智能体。其循环持续基于历史经验（运行日志、评估反馈、solution 源码）探索更优方案，遵循 The Bitter Lesson 保持 Harness 轻量、动作空间广阔，已在 3D 建模等任务上超越 Claude Code goal 模式。",
+      "thinking": "RSI（递归自我改进）是今年最活跃的前沿之一，AlphaEvolve、Together AI、Karpathy autoresearch 都在证明智能体在开放问题里超越人类基准正在发生。Hyra 的看点不是单点性能，而是把自我改进循环加产品系统真实反馈做成可落地的研发流水线。对工程团队，这意味着部分研发环节（建模、调参、代码优化）可以交给会越做越好的 Agent。",
+      "learning": [
+        "设计一个最小可用的自我改进循环：方案到运行到评估到再探索，沉淀历史经验",
+        "用 VLM judge / rubrics 给开放式任务打分，避免只能评可验证答案",
+        "把 Hyra 类思路用在团队内部的代码优化或建模脚本自动迭代上"
+      ],
+      "importance": "high",
+      "link": "https://www.163.com/dy/article/L2C1DOEE0511B8LM.html"
+    },
+    {
+      "id": "github-skills-mcp-ecosystem-boom",
+      "title": "GitHub 趋势：Skills 生态与 MCP 爆发，Agent 走向核心引擎+技能市场",
+      "source": "掘金 / CSDN AI Agent 社区",
+      "category": "GitHub开源",
+      "summary": "7 月 GitHub 趋势中，agency-agents、caveman、superpowers 等项目占据 Agent 技能生态头部，superpowers 技能市场已上架 500+ 技能；MCP 相关项目（codebase-memory-mcp、DesktopCommanderMCP）持续走热。Shell 占比因 Skills 用 Markdown/Shell 组织而明显上升，Rust 在 Coding Agent 基础设施层占比增加。",
+      "thinking": "趋势清晰指向一个范式：Agent 正从完整产品解耦为核心引擎加可插拔技能生态，类似 App Store 早期。Skills 用 Shell/Markdown 组织带来跨平台可移植性，降低了 Agent 能力复用门槛；Rust 向基础设施层迁移则反映对性能与安全的追求。对开发者，关键是别再重复造 Agent 框架，而是积累技能包资产。",
+      "learning": [
+        "开始把团队的 Agent 能力沉淀为可复用 Skills（Markdown + Shell），而非散落的脚本",
+        "评估 MCP 服务器（如代码库记忆、桌面命令）接入你的 Agent 工作流",
+        "关注 Skills 市场的杀手级技能，优先复用而非自研"
+      ],
+      "importance": "medium",
+      "link": "https://juejin.cn/post/7662937986766995471"
+    },
+    {
+      "id": "loop-engineering-paradigm-shift",
+      "title": "Loop Engineering：人从操作台退到设计台",
+      "source": "今日头条 / Addy Osmani《Loop Engineering》",
+      "category": "软件工程",
+      "summary": "Google Cloud AI 总监 Addy Osmani 将 Loop 工程定义为：你不再提示 Agent，而是设计一套系统替你触发、评估、修复并回写经验。它被视为继 Prompt 工程、Context 工程、Harness 工程之后的第四代范式，Agent 从被动执行变为主动自循环。",
+      "thinking": "四代范式跃迁的共同主线是逐步交出操作权：从人写每条指令，到人设计上下文，到人编排工作流，再到人只设计操作 AI 的规则。Loop 把谁来管理 Agent 交给了 Agent 自己（自触发、自评、自修复）。这对工程组织意味着角色重构——资深工程师的产出单位从代码变成能自我运转的系统，但人退后也带来可观测性与责任归属的新挑战。",
+      "learning": [
+        "在你的 Agent 工作流里加入自评、自愈、经验回写循环，而非一次性 Prompt",
+        "为 Loop 设置权限闸门与花费计量，防止自循环失控",
+        "把团队 KPI 从写了多少代码调整为设计了多少可自我运转的系统"
+      ],
+      "importance": "high",
+      "link": "https://www.toutiao.com/article/7662179181568770602/"
+    },
+    {
+      "id": "spec-driven-agentic-engineering",
+      "title": "Vibe Coding 退场，Spec-Driven Agentic Engineering 接管",
+      "source": "今日头条 / Karpathy 观点（AICon 相关讨论）",
+      "category": "软件工程",
+      "summary": "Karpathy 改口称 Vibe Coding 时代正在终结，进入 Agentic Engineering：用详细规格编排多个 Agent，而非祈祷一句 Prompt 落在有用处。GitHub 5 月开源的 Spec Kit 获 11 万星。Vibe Coding 在复杂任务上的三种死法——意图漂移、幻觉接口、熵增失控——根因是 Agent 不知要写什么。",
+      "thinking": "Vibe Coding 不是没用，而是无法规模化：小任务灵、复杂任务崩。它的三种死法都指向同一根因——瓶颈从能不能写变成知不知道要写什么。Spec-Driven 把需求工程重新放回中心，用规格约束多个 Agent 的协作。对团队，这意味着需要补写规格的能力，并把规格作为 Agent 协作的契约与验收标准。",
+      "learning": [
+        "用 Spec Kit 或类似工具把需求写成可执行规格，作为多 Agent 协作契约",
+        "把验收标准（测试/接口契约）前置到规格阶段，堵住幻觉接口",
+        "对复杂任务放弃单次 Vibe，改用规格 + 多 Agent 分工"
+      ],
+      "importance": "medium",
+      "link": "https://www.toutiao.com/article/7660729944154178102/"
+    },
+    {
+      "id": "arxiv-execution-security-survey",
+      "title": "ArXiv 综述：AI Coding Agent 执行安全正陷入巴尔干化",
+      "source": "arXiv 论文 2607.05743",
+      "category": "论文研究",
+      "summary": "arXiv:2607.05743 系统梳理了 2023 到 2026 年间 39 篇 AI Coding Agent 执行安全论文，归纳为 17 个已验证类别，涵盖隔离、访问控制与 TOCTOU（检查到使用的时间差）漏洞，并开源了机器可读语料与验证脚本。",
+      "thinking": "随着 Coding Agent 获得终端、文件、网络权限，执行安全成为生产落地的硬约束。这篇综述的价值在于指出该领域巴尔干化——大量零散方案缺乏统一威胁模型，导致团队很难判断我的 Agent 到底安全在哪。对平台与安全团队，应据此建立统一的执行安全基线（沙箱、最小权限、TOCTOU 防护），而非各 Agent 各搞一套。",
+      "learning": [
+        "读 arXiv:2607.05743，对照 17 个类别给团队 Agent 做安全差距评估",
+        "为 Coding Agent 部署沙箱与最小权限，重点防护 TOCTOU 类漏洞",
+        "把执行安全纳入 Agent 上线的必过检查项，而非事后补丁"
+      ],
+      "importance": "medium",
+      "link": "https://arxiv.org/abs/2607.05743"
+    },
+    {
+      "id": "on-device-ai-compliance-landing",
+      "title": "端侧 AI 合规落地：网信办公布 7 款手机端侧模型备案",
+      "source": "i黑马 / WAIC 2026 周报",
+      "category": "行业动态",
+      "summary": "7 月 15 日国家网信办公布 7 款手机端侧生成式 AI 服务备案，覆盖苹果、华为、OPPO、vivo、小米、三星、努比亚，备案时间统一为 7 月 8 日。这标志着国内端侧大模型监管落地提速，手机终端 AI 正式纳入规范化管理。",
+      "thinking": "端侧 AI 备案意味着大模型上手机从技术竞赛进入合规轨道。对硬件厂商与应用开发者，合规不再是上线后的麻烦，而是产品定义的前置约束——端侧模型的训练数据、能力边界、内容安全都要在备案框架内设计。同时，端侧合规落地会加速云端协同架构（敏感算力下沉到端、复杂推理上云）成为主流。",
+      "learning": [
+        "若在做端侧或手机 AI 功能，提前对齐网信办备案要求与内容安全规范",
+        "把端侧轻量模型 + 云端强模型的协同架构纳入产品设计",
+        "跟踪备案名单扩展节奏，预判自己所在品类的合规时间窗"
+      ],
+      "importance": "medium",
+      "link": "https://dy.163.com/article/L2CRPJDT05118I96.html"
+    }
+  ]
+}

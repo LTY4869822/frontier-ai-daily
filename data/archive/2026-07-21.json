@@ -1,0 +1,534 @@
+{
+  "date": "2026-07-21",
+  "window": {
+    "from": "2026-07-20T11:00:00.000Z",
+    "to": "2026-07-21T11:00:00.000Z"
+  },
+  "generatedBy": "frontier-ai-daily edition generator",
+  "generatedAt": "2026-07-21T16:21:05.552Z",
+  "github": [
+    {
+      "id": 28457823,
+      "name": "freeCodeCamp",
+      "fullName": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "language": "TypeScript",
+      "stars": 452303,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/9892522?v=4",
+      "descZh": "freeCodeCamp 开源代码库与课程体系，免费学习数学、编程与计算机科学"
+    },
+    {
+      "id": 1103012935,
+      "name": "openclaw",
+      "fullName": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "url": "https://github.com/openclaw/openclaw",
+      "language": "TypeScript",
+      "stars": 383690,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "descZh": "你自己的个人 AI 助手，可跨任意操作系统与平台运行（lobster 风格）"
+    },
+    {
+      "id": 85077558,
+      "name": "developer-roadmap",
+      "fullName": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "language": "TypeScript",
+      "stars": 362090,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/4921183?v=4",
+      "descZh": "交互式开发者成长路线图、指南与教程，助力职业发展"
+    },
+    {
+      "id": 21289110,
+      "name": "awesome-python",
+      "fullName": "vinta/awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "url": "https://github.com/vinta/awesome-python",
+      "language": "Python",
+      "stars": 309484,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/652070?v=4",
+      "descZh": "精选的 Python 框架、库、工具与资源清单"
+    },
+    {
+      "id": 36633370,
+      "name": "awesome-selfhosted",
+      "fullName": "awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "language": null,
+      "stars": 307149,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/24270415?v=4",
+      "descZh": "可自行部署的免费软件网络服务与 Web 应用清单"
+    },
+    {
+      "id": 88011908,
+      "name": "project-based-learning",
+      "fullName": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "language": "Python",
+      "stars": 274531,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/89421154?v=4",
+      "descZh": "基于实战项目的学习教程合集"
+    },
+    {
+      "id": 1073224795,
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "language": "Shell",
+      "stars": 258652,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/45416?v=4",
+      "descZh": "一套可落地的智能体技能框架与软件开发方法论"
+    },
+    {
+      "id": 10270250,
+      "name": "react",
+      "fullName": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "url": "https://github.com/react/react",
+      "language": "JavaScript",
+      "stars": 246626,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/102812?v=4",
+      "descZh": "用于构建 Web 与原生用户界面的 JavaScript 库"
+    },
+    {
+      "id": 2325298,
+      "name": "linux",
+      "fullName": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux",
+      "language": "C",
+      "stars": 240039,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "descZh": "Linux 内核源码树"
+    },
+    {
+      "id": 1136590548,
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "language": "JavaScript",
+      "stars": 231809,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
+      "descZh": "智能体运行框架性能优化系统：为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与以研究为先的开发能力"
+    },
+    {
+      "id": 63476337,
+      "name": "Python",
+      "fullName": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "language": "Python",
+      "stars": 222978,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/20487725?v=4",
+      "descZh": "用 Python 实现的所有算法合集"
+    },
+    {
+      "id": 1024554267,
+      "name": "hermes-agent",
+      "fullName": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "language": "Python",
+      "stars": 218256,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/134168893?v=4",
+      "descZh": "会随你一起成长的智能体"
+    },
+    {
+      "id": 193215554,
+      "name": "n8n",
+      "fullName": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "url": "https://github.com/n8n-io/n8n",
+      "language": "TypeScript",
+      "stars": 197338,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/45487711?v=4",
+      "descZh": "关于云的内容"
+    },
+    {
+      "id": 45717250,
+      "name": "tensorflow",
+      "fullName": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "language": "C++",
+      "stars": 196435,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/15658638?v=4",
+      "descZh": "涉及机器学习、开源、框架等方向"
+    },
+    {
+      "id": 291137,
+      "name": "ohmyzsh",
+      "fullName": "ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "language": "Shell",
+      "stars": 188720,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/22552083?v=4",
+      "descZh": "涉及Python、Docker、macOS等方向"
+    }
+  ],
+  "news": [
+    {
+      "id": 48979269,
+      "title": "China’s open-weights AI strategy is winning",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "points": 1185,
+      "comments": 898,
+      "createdAt": 1784557307,
+      "titleZh": "关于开放权重"
+    },
+    {
+      "id": 48977128,
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "points": 872,
+      "comments": 706,
+      "createdAt": 1784545558
+    },
+    {
+      "id": 48978605,
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "points": 688,
+      "comments": 388,
+      "createdAt": 1784554113,
+      "titleZh": "关于数据库的内容"
+    },
+    {
+      "id": 48981703,
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "points": 637,
+      "comments": 262,
+      "createdAt": 1784567603,
+      "titleZh": "关于Kimi的内容"
+    },
+    {
+      "id": 48981620,
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "points": 620,
+      "comments": 189,
+      "createdAt": 1784567259,
+      "titleZh": "涉及HTML、用户界面、物理等方向"
+    },
+    {
+      "id": 48977711,
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
+      "points": 530,
+      "comments": 326,
+      "createdAt": 1784549648
+    },
+    {
+      "id": 48983382,
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "points": 438,
+      "comments": 214,
+      "createdAt": 1784574217
+    },
+    {
+      "id": 48986731,
+      "title": "Flock Credibility Lost as It Repeatedly Lies to City Councils, Police, & Public",
+      "url": "https://www.aclu.org/news/privacy-technology/tracking-alpr-cameras/flock-safety-credibility-lost-as-it-repeatedly-lies-to-city-councils-police-departments-and-public-across-the-country",
+      "points": 435,
+      "comments": 145,
+      "createdAt": 1784594033
+    },
+    {
+      "id": 48989701,
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "points": 426,
+      "comments": 177,
+      "createdAt": 1784623463
+    },
+    {
+      "id": 48978112,
+      "title": "Annoying and alarming things about OpenCode",
+      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
+      "points": 398,
+      "comments": 257,
+      "createdAt": 1784551555
+    },
+    {
+      "id": 48980019,
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+      "points": 356,
+      "comments": 322,
+      "createdAt": 1784560422,
+      "titleZh": "涉及Kimi与Anthropic"
+    },
+    {
+      "id": 48982681,
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "points": 349,
+      "comments": 121,
+      "createdAt": 1784571368
+    },
+    {
+      "id": 48986091,
+      "title": "Jellyfin founder Andrew leaves team",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "points": 338,
+      "comments": 296,
+      "createdAt": 1784589341
+    },
+    {
+      "id": 48987863,
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "points": 320,
+      "comments": 219,
+      "createdAt": 1784606163
+    },
+    {
+      "id": 48987822,
+      "title": "Incremental – A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "points": 304,
+      "comments": 57,
+      "createdAt": 1784605853,
+      "titleZh": "关于库的内容"
+    },
+    {
+      "id": 48978835,
+      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+      "points": 288,
+      "comments": 73,
+      "createdAt": 1784555233
+    },
+    {
+      "id": 48978792,
+      "title": "Shinjuku Station in 3D",
+      "url": "https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/",
+      "points": 271,
+      "comments": 59,
+      "createdAt": 1784554990
+    },
+    {
+      "id": 48979120,
+      "title": "Perfection is not over-engineering",
+      "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+      "points": 269,
+      "comments": 118,
+      "createdAt": 1784556630
+    },
+    {
+      "id": 48980520,
+      "title": "I Stopped “Creating Content”",
+      "url": "https://refactoringenglish.com/blog/why-i-stopped-creating-content/",
+      "points": 261,
+      "comments": 211,
+      "createdAt": 1784562448
+    },
+    {
+      "id": 48982535,
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "points": 253,
+      "comments": 122,
+      "createdAt": 1784570773
+    }
+  ],
+  "papers": [
+    {
+      "id": "2607.18237v1",
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+      "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this g",
+      "url": "https://arxiv.org/abs/2607.18237v1",
+      "titleZh": "视觉相似性的多重含义：一种由文本提示驱动的图像感知度量",
+      "summaryZh": "人类的视觉相似判断依赖具体情境（例如两图形状相似但颜色不同）。现有感知相似度量将这种差异压缩成单一标量，无法按特定维度进行条件化。本文提出一种由文本提示驱动的图像感知相似度量，可对相似性的不同面向进行条件控制。"
+    },
+    {
+      "id": "2607.18236v1",
+      "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+      "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial deta",
+      "url": "https://arxiv.org/abs/2607.18236v1",
+      "titleZh": "Patch Policy：通过稠密视觉表征实现高效具身控制",
+      "summaryZh": "来自 Vision Transformer（ViT）的预训练稠密视觉特征强大却鲜少用于机器人学习。本文提出 Patch Policy，利用稠密视觉表征保留细粒度空间细节，实现高效的具身（机器人）控制。"
+    },
+    {
+      "id": "2607.18235v1",
+      "title": "Automated Discovery Has No Universally Superior Harness",
+      "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery",
+      "url": "https://arxiv.org/abs/2607.18235v1",
+      "titleZh": "自动发现并不存在普遍更优的框架（harness）",
+      "summaryZh": "OpenEvolve、TTT-Discover 等自主发现系统常被当作通用框架使用，但实际上它们是档案、父代选择、探索与预算分配等多种设计选择的组合。本文表明不存在普遍更优的 harness，不同任务需不同配置。"
+    },
+    {
+      "id": "2607.18232v1",
+      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+      "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presup",
+      "url": "https://arxiv.org/abs/2607.18232v1",
+      "titleZh": "重点不在你说什么，而在你怎么说：评估 LLM 对信念表达的回应",
+      "summaryZh": "用户常以多样的语言形式向 LLM 表达自身信念。本文研究 LLM 应在何时接受这些信念为真、何时坚持自身先验知识，并构建了相应的评估基准。"
+    },
+    {
+      "id": "2607.18230v1",
+      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+      "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level im",
+      "url": "https://arxiv.org/abs/2607.18230v1",
+      "titleZh": "现代 VLM 中面向强像素级图像篡改检测的简易域泛化方法",
+      "summaryZh": "随着现代视觉语言模型（VLM）的图像生成与编辑能力增强，跨模型、分布外场景下的像素级篡改检测愈发重要。本文研究了像素级图像篡改检测的域泛化（domain generalization）方法。"
+    },
+    {
+      "id": "2607.18228v1",
+      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+      "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled vari",
+      "url": "https://arxiv.org/abs/2607.18228v1",
+      "titleZh": "压力下的逻辑判断：用学习型软前缀诊断三段论稳定性",
+      "summaryZh": "为检验正确逻辑判断如何受所学上下文影响，本文在精确标注的三段论推理基准前添加软前缀（soft prefix）并保持模型固定，通过受控变量刻画软前缀引发的行为变化。"
+    },
+    {
+      "id": "2607.18227v1",
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "summary": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated proc",
+      "url": "https://arxiv.org/abs/2607.18227v1",
+      "titleZh": "FlowMimic：基于像素对扭曲流场、面向在线视频编辑数据生成与模态模仿的无掩码视觉编辑与生成",
+      "summaryZh": "本文探索在单一模型中同时集成视频与图像的生成与编辑能力，并提出 FlowMimic，利用像素对扭曲的流场（flow field）实现无掩码（mask-free）视觉编辑与生成，并用于自动生成在线视频编辑训练数据。"
+    },
+    {
+      "id": "2607.18226v1",
+      "title": "Causal Discovery on Irregular Time Series",
+      "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as senso",
+      "url": "https://arxiv.org/abs/2607.18226v1",
+      "titleZh": "不规则时间序列上的因果发现",
+      "summaryZh": "现有因果发现方法通常依赖规则、离散的滞后结构，难以处理不规则采样数据。本文提出适用于不规则时间序列（如传感器事件流）的因果发现方法。"
+    },
+    {
+      "id": "2607.18225v1",
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the gener",
+      "url": "https://arxiv.org/abs/2607.18225v1",
+      "titleZh": "将向量检索视为最近邻匹配：因果推断中基于 RAG 的策略学习",
+      "summaryZh": "本文在潜在结果（potential outcome）框架下提出一步与两步的检索增强生成（RAG）策略学习方法，其中向量检索在嵌入空间中召回与动作相关的邻近证据，用于因果推断中的策略学习。"
+    },
+    {
+      "id": "2607.18218v1",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+      "summary": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spa",
+      "url": "https://arxiv.org/abs/2607.18218v1",
+      "titleZh": "GigaPath-Flash 与 GigaTIME-Flash：面向全切片与肿瘤微环境分析的高效病理基础模型",
+      "summaryZh": "基础模型正成为计算病理学的核心驱动力。本文提出 GigaPath-Flash 与 GigaTIME-Flash，高效的全切片（whole-slide）与肿瘤微环境分析病理基础模型，可助力癌症诊断、预后与治疗选择。"
+    },
+    {
+      "id": "2607.18217v1",
+      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+      "summary": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and a",
+      "url": "https://arxiv.org/abs/2607.18217v1",
+      "titleZh": "HOMIE：通过多模态智能增强实现以人-物为中心的视频个性化",
+      "summaryZh": "人以物为中心的视频个性化（HOCVP）是主体驱动视频生成的核心任务。本文提出 HOMIE，通过多模态智能增强（multimodal intelligent enhancement）在主体保真度与运动自然度之间取得更好平衡。"
+    },
+    {
+      "id": "2607.18213v1",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of c",
+      "url": "https://arxiv.org/abs/2607.18213v1",
+      "titleZh": "SWE-Pruner Pro：编程 LLM 已知道该剪掉什么",
+      "summaryZh": "为编码智能体裁剪长上下文是高效的上下文管理技术。现有方法（如 SWE-Pruner）依赖单独的分类器，而本文发现智能体自身已编码了代码相关性的内部表示，据此提出 SWE-Pruner Pro 直接利用模型内部信号剪枝。"
+    }
+  ],
+  "articles": [
+    {
+      "id": 4194719,
+      "title": "You're rethrowing errors and losing context. `Error.cause` fixes that.",
+      "description": "Error handling has a quiet problem. You catch an error deep in a call stack, wrap it in something...",
+      "url": "https://dev.to/parsajiravand/youre-rethrowing-errors-and-losing-context-errorcause-fixes-that-4l97",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7a8zvnhqtzscm2ghfit7.png",
+      "author": "Parsa Jiravand",
+      "titleZh": "你在重抛错误并丢失上下文，`Error.cause` 能解决这个问题",
+      "descZh": "讲解 JavaScript 错误处理中的隐性问题：在深层调用栈捕获错误并重新包装时，原始上下文易丢失；使用 Error.cause 可保留错误链与上下文。"
+    },
+    {
+      "id": 4190539,
+      "title": "AI coding agents still write your SDK's old API — so I built a type-checker to measure it",
+      "description": "Here's a bug I kept hitting. I'd ask an AI assistant to write some code against a library — Prisma,...",
+      "url": "https://dev.to/kalpitrathore/ai-coding-agents-still-write-your-sdks-old-api-so-i-built-a-type-checker-to-measure-it-alk",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frzt86tazeni7gzc58pp4.png",
+      "author": "Kalpit Rathore",
+      "titleZh": "AI 编码智能体仍在写你 SDK 的旧 API——于是我写了个类型检查器来度量它",
+      "descZh": "作者发现 AI 编码助手常针对库（如 Prisma）写出过时的旧 API 调用，遂构建类型检查器量化这一问题并评估各模型的准确性。"
+    },
+    {
+      "id": 4180473,
+      "title": "How AI changed the way I pick frameworks, and the two places React survived",
+      "description": "That 130-file PR that shipped KeyEcho 1.0 contained a decision I never wrote about: the desktop app...",
+      "url": "https://dev.to/zacharylee/how-ai-changed-the-way-i-pick-frameworks-and-the-two-places-react-survived-3h3",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzkwbxz53mnjd15ewp5t5.png",
+      "author": "Zach",
+      "titleZh": "AI 改变了我选择框架的方式，以及 React 幸存下来的两处场景",
+      "descZh": "作者回顾在 AI 辅助下构建项目时框架选型的变化，并指出 React 仍在桌面应用和某一特定场景中保有一席之地。"
+    },
+    {
+      "id": 4192379,
+      "title": "🚀 Rizzzler Just Got Even Better!",
+      "description": "Hey everyone! 👋  First of all, thank you so much for all the support, feedback, and feature...",
+      "url": "https://dev.to/puneetkumar2010/rizzzler-just-got-even-better-569k",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fo46y8eqnez9nudp5w5wh.png",
+      "author": "Puneet-Kumar2010",
+      "titleZh": "Rizzzler 又变得更强大了！",
+      "descZh": "作者介绍其 Rizzzler 项目的新版本更新与新增功能，感谢社区支持并分享改进亮点。"
+    },
+    {
+      "id": 4192403,
+      "title": "The Scoreboard Lied. Now Sentry Shows Which Layer Broke",
+      "description": "This is a submission for DEV's Summer Bug Smash: Clear the Lineup powered by Sentry.  Two...",
+      "url": "https://dev.to/kenielzep97/the-scoreboard-lied-sentry-showed-me-which-layer-broke-227l",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnobfcgo3jb16dnyurune.png",
+      "author": "Self-Correcting Systems",
+      "titleZh": "记分牌在说谎，现在 Sentry 能指出是哪一层出了问题",
+      "descZh": "本文为 DEV 与 Sentry 联合举办的 Summer Bug Smash 投稿，展示如何用 Sentry 在多层架构中定位具体出错的服务层。"
+    },
+    {
+      "id": 4192769,
+      "title": "Fine-tuning MuRIL for Multilingual Citizen Grievance Classification (with all the bugs I hit)",
+      "description": "Built a text classifier that routes Indian citizen grievances (Hindi / Hinglish / English,...",
+      "url": "https://dev.to/abhi1628/fine-tuning-muril-for-multilingual-citizen-grievance-classification-with-all-the-bugs-i-hit-a6e",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fccjambv80zfrh4oxqc24.png",
+      "author": "Abhishek Singh",
+      "titleZh": "微调 MuRIL 进行多语言市民诉求分类（含我踩过的所有坑）",
+      "descZh": "作者构建了一个将印度市民诉求（印地语 / Hinglish / 英语）路由分类的文本分类器，并分享微调 MuRIL 模型过程中的各类问题与解法。"
+    },
+    {
+      "id": 4192115,
+      "title": "When the same incident becomes five separate events in your graph",
+      "description": "How I built cross-document event coreference for a multilingual knowledge graph covering East Asian corporate news across Korean, Japanese, Chinese, and English sources.",
+      "url": "https://dev.to/hannune/when-the-same-incident-becomes-five-separate-events-in-your-graph-1b2h",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5mz770qtczvjc8xfh9oa.jpg",
+      "author": "Tae Kim",
+      "titleZh": "当同一事件在你的图谱里变成五个独立事件",
+      "descZh": "作者讲述如何为覆盖韩、日、中、英东亚企业新闻的多语言知识图谱，构建跨文档事件共指（coreference）消解能力。"
+    },
+    {
+      "id": 4189278,
+      "title": "We Turned Down a $200k Project Last Month — Here's Why",
+      "description": "Last month a Series B fintech company offered us $200k to build their entire customer support...",
+      "url": "https://dev.to/autor_tech/we-turned-down-a-200k-project-last-month-heres-why-243",
+      "coverImage": null,
+      "author": "Autor Technologies Inc.",
+      "titleZh": "上个月我们拒绝了一个 20 万美元的项目——原因如下",
+      "descZh": "一家技术公司讲述为何拒绝某 B 轮金融科技公司开出的 20 万美元整体客服系统外包项目，并剖析背后的取舍。"
+    },
+    {
+      "id": 4188665,
+      "title": "What Is PEFT? A Guide to Parameter-Efficient Fine-Tuning",
+      "description": "A technical guide comparing LoRA, QLoRA, rsLoRA, AdaLoRA, DoRA, IA³, prompt tuning, and adapter...",
+      "url": "https://dev.to/bahadir_kusat_7df590dc9cd/what-is-peft-a-guide-to-parameter-efficient-fine-tuning-273b",
+      "coverImage": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fraawmulaq24tm7q5xynb.png",
+      "author": "Bahadir Kusat",
+      "titleZh": "什么是 PEFT？参数高效微调指南",
+      "descZh": "一篇技术指南，对比 LoRA、QLoRA、rsLoRA、AdaLoRA、DoRA、IA³、prompt tuning 与 adapter 等参数高效微调（PEFT）方法。"
+    }
+  ]
+}

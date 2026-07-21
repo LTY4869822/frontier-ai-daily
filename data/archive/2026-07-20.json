@@ -1,0 +1,436 @@
+{
+  "date": "2026-07-20",
+  "window": {
+    "from": "2026-07-19T11:00:00.000Z",
+    "to": "2026-07-20T11:00:00.000Z"
+  },
+  "generatedBy": "frontier-ai-daily edition generator",
+  "generatedAt": "2026-07-21T16:20:58.249Z",
+  "github": [
+    {
+      "id": 13491895,
+      "name": "free-programming-books",
+      "fullName": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "language": "Python",
+      "stars": 392638,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/14127308?v=4"
+    },
+    {
+      "id": 21289110,
+      "name": "awesome-python",
+      "fullName": "vinta/awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "url": "https://github.com/vinta/awesome-python",
+      "language": "Python",
+      "stars": 309484,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/652070?v=4",
+      "descZh": "涉及Python、框架、远程代码执行等方向"
+    },
+    {
+      "id": 88011908,
+      "name": "project-based-learning",
+      "fullName": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "language": "Python",
+      "stars": 274531,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/89421154?v=4"
+    },
+    {
+      "id": 2325298,
+      "name": "linux",
+      "fullName": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "url": "https://github.com/torvalds/linux",
+      "language": "C",
+      "stars": 240039,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/1024025?v=4",
+      "descZh": "涉及Linux与远程代码执行"
+    },
+    {
+      "id": 1136590548,
+      "name": "ECC",
+      "fullName": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "language": "JavaScript",
+      "stars": 231809,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
+      "descZh": "关于Claude的内容"
+    },
+    {
+      "id": 291137,
+      "name": "ohmyzsh",
+      "fullName": "ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "language": "Shell",
+      "stars": 188720,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/22552083?v=4",
+      "descZh": "涉及Python、Docker、macOS等方向"
+    },
+    {
+      "id": 307260205,
+      "name": "yt-dlp",
+      "fullName": "yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "language": "Python",
+      "stars": 179312,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/79589310?v=4"
+    },
+    {
+      "id": 21540759,
+      "name": "awesome-go",
+      "fullName": "avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "url": "https://github.com/avelino/awesome-go",
+      "language": "Go",
+      "stars": 178778,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/31996?v=4",
+      "descZh": "涉及Go与框架"
+    },
+    {
+      "id": 658928958,
+      "name": "ollama",
+      "fullName": "ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "url": "https://github.com/ollama/ollama",
+      "language": "Go",
+      "stars": 176577,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/151674099?v=4",
+      "descZh": "关于Kimi的内容"
+    },
+    {
+      "id": 888092115,
+      "name": "markitdown",
+      "fullName": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "url": "https://github.com/microsoft/markitdown",
+      "language": "Python",
+      "stars": 167903,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "descZh": "关于Python的内容"
+    },
+    {
+      "id": 132464395,
+      "name": "JavaGuide",
+      "fullName": "Snailclimb/JavaGuide",
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "language": "JavaScript",
+      "stars": 157181,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/29880145?v=4",
+      "descZh": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发"
+    },
+    {
+      "id": 937253475,
+      "name": "claude-code",
+      "fullName": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+      "url": "https://github.com/anthropics/claude-code",
+      "language": "Python",
+      "stars": 138558,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/76263028?v=4",
+      "descZh": "涉及Claude与智能体"
+    },
+    {
+      "id": 32484381,
+      "name": "free-for-dev",
+      "fullName": "ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "language": "HTML",
+      "stars": 129996,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/82342?v=4"
+    },
+    {
+      "id": 15634981,
+      "name": "godot",
+      "fullName": "godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "url": "https://github.com/godotengine/godot",
+      "language": "C++",
+      "stars": 114445,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6318500?v=4",
+      "descZh": "关于Go的内容"
+    },
+    {
+      "id": 199570071,
+      "name": "v2rayN",
+      "fullName": "2dust/v2rayN",
+      "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+      "url": "https://github.com/2dust/v2rayN",
+      "language": "C#",
+      "stars": 111898,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/31833384?v=4",
+      "descZh": "涉及Linux、Windows、macOS等方向"
+    }
+  ],
+  "news": [
+    {
+      "id": 48968606,
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "points": 2890,
+      "comments": 346,
+      "createdAt": 1784472076,
+      "titleZh": "关于Show HN的内容"
+    },
+    {
+      "id": 48976846,
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "points": 818,
+      "comments": 159,
+      "createdAt": 1784543440
+    },
+    {
+      "id": 48973869,
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "points": 779,
+      "comments": 490,
+      "createdAt": 1784515876,
+      "titleZh": "关于Claude的内容"
+    },
+    {
+      "id": 48974454,
+      "title": "Xiaomi-Robotics-1",
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "points": 500,
+      "comments": 318,
+      "createdAt": 1784522715,
+      "titleZh": "关于机器人的内容"
+    },
+    {
+      "id": 48975665,
+      "title": "I found a WordPress RCEs with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "points": 398,
+      "comments": 217,
+      "createdAt": 1784535216,
+      "titleZh": "关于远程代码执行的内容"
+    },
+    {
+      "id": 48971738,
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "points": 361,
+      "comments": 209,
+      "createdAt": 1784495890
+    },
+    {
+      "id": 48972970,
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "url": "https://github.com/hgaiser/moonshine",
+      "points": 354,
+      "comments": 147,
+      "createdAt": 1784506610
+    },
+    {
+      "id": 48967256,
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "points": 350,
+      "comments": 266,
+      "createdAt": 1784461698,
+      "titleZh": "关于Java的内容"
+    },
+    {
+      "id": 48970894,
+      "title": "Orion Browser by Kagi",
+      "url": "https://orionbrowser.com/",
+      "points": 299,
+      "comments": 300,
+      "createdAt": 1784488409,
+      "titleZh": "关于浏览器"
+    },
+    {
+      "id": 48969291,
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "points": 283,
+      "comments": 113,
+      "createdAt": 1784476945,
+      "titleZh": "关于Kimi的内容"
+    },
+    {
+      "id": 48966984,
+      "title": "I joined the IndieWeb, here's what I learned",
+      "url": "https://en.andros.dev/blog/0b8e451e/i-joined-the-indieweb-heres-what-i-learned/",
+      "points": 240,
+      "comments": 156,
+      "createdAt": 1784459678
+    },
+    {
+      "id": 48969635,
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "points": 225,
+      "comments": 76,
+      "createdAt": 1784479517
+    },
+    {
+      "id": 48972062,
+      "title": "We want Texans to know their rights",
+      "url": "https://www.eff.org/deeplinks/2026/07/we-want-texans-know-their-rights-qa-mayday-health-impact-surveillance-abortion",
+      "points": 214,
+      "comments": 73,
+      "createdAt": 1784498591
+    },
+    {
+      "id": 48976682,
+      "title": "Airbus Takes Flight from AWS",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "points": 209,
+      "comments": 166,
+      "createdAt": 1784542342,
+      "titleZh": "关于AWS的内容"
+    },
+    {
+      "id": 48968063,
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "points": 183,
+      "comments": 140,
+      "createdAt": 1784467769,
+      "titleZh": "关于禁止"
+    },
+    {
+      "id": 48967355,
+      "title": "I burned all my tokens researching how to save tokens",
+      "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
+      "points": 171,
+      "comments": 210,
+      "createdAt": 1784462513,
+      "titleZh": "关于研究"
+    },
+    {
+      "id": 48974292,
+      "title": "When can a power company take your land for data center infrastructure?",
+      "url": "https://theconversation.com/when-can-a-power-company-take-your-land-for-data-center-infrastructure-284061",
+      "points": 169,
+      "comments": 149,
+      "createdAt": 1784521162,
+      "titleZh": "关于数据中心"
+    },
+    {
+      "id": 48970772,
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "points": 159,
+      "comments": 139,
+      "createdAt": 1784487421
+    },
+    {
+      "id": 48974476,
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+      "points": 159,
+      "comments": 122,
+      "createdAt": 1784522987,
+      "titleZh": "关于微软的内容"
+    },
+    {
+      "id": 48969582,
+      "title": "Texas Police Spent $4.5M on Four Chevy Tahoes",
+      "url": "https://www.thedrive.com/news/how-texas-police-spent-4-5-million-on-four-chevy-tahoes",
+      "points": 144,
+      "comments": 71,
+      "createdAt": 1784479116
+    }
+  ],
+  "papers": [
+    {
+      "id": "2607.18237v1",
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+      "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this g",
+      "url": "https://arxiv.org/abs/2607.18237v1",
+      "titleZh": "关于远程代码执行的内容",
+      "summaryZh": "关于远程代码执行的内容"
+    },
+    {
+      "id": "2607.18236v1",
+      "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+      "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial deta",
+      "url": "https://arxiv.org/abs/2607.18236v1",
+      "summaryZh": "涉及预训练、Transformer、机器人等方向"
+    },
+    {
+      "id": "2607.18235v1",
+      "title": "Automated Discovery Has No Universally Superior Harness",
+      "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery",
+      "url": "https://arxiv.org/abs/2607.18235v1"
+    },
+    {
+      "id": "2607.18232v1",
+      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+      "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presup",
+      "url": "https://arxiv.org/abs/2607.18232v1",
+      "titleZh": "关于大语言模型的内容",
+      "summaryZh": "关于大语言模型的内容"
+    },
+    {
+      "id": "2607.18230v1",
+      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+      "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level im",
+      "url": "https://arxiv.org/abs/2607.18230v1",
+      "summaryZh": "关于语言模型的内容"
+    },
+    {
+      "id": "2607.18228v1",
+      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+      "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled vari",
+      "url": "https://arxiv.org/abs/2607.18228v1",
+      "summaryZh": "关于基准测试的内容"
+    },
+    {
+      "id": "2607.18227v1",
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "summary": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated proc",
+      "url": "https://arxiv.org/abs/2607.18227v1",
+      "summaryZh": "关于研究"
+    },
+    {
+      "id": "2607.18226v1",
+      "title": "Causal Discovery on Irregular Time Series",
+      "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as senso",
+      "url": "https://arxiv.org/abs/2607.18226v1",
+      "summaryZh": "关于用户界面"
+    },
+    {
+      "id": "2607.18225v1",
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the gener",
+      "url": "https://arxiv.org/abs/2607.18225v1",
+      "titleZh": "关于检索增强生成(RAG)的内容",
+      "summaryZh": "涉及检索增强生成(RAG)与框架"
+    },
+    {
+      "id": "2607.18218v1",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+      "summary": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spa",
+      "url": "https://arxiv.org/abs/2607.18218v1",
+      "titleZh": "关于基础模型的内容",
+      "summaryZh": "涉及基础模型与远程代码执行"
+    },
+    {
+      "id": "2607.18217v1",
+      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+      "summary": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and a",
+      "url": "https://arxiv.org/abs/2607.18217v1",
+      "titleZh": "涉及多模态与Intel"
+    },
+    {
+      "id": "2607.18213v1",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of c",
+      "url": "https://arxiv.org/abs/2607.18213v1",
+      "titleZh": "关于大语言模型的内容"
+    }
+  ],
+  "articles": []
+}

@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-19",
+  "window": {
+    "from": "2026-07-18T11:00:00.000Z",
+    "to": "2026-07-19T11:00:00.000Z"
+  },
+  "generatedBy": "frontier-ai-daily edition generator",
+  "generatedAt": "2026-07-21T16:20:52.967Z",
+  "github": [
+    {
+      "id": 13491895,
+      "name": "free-programming-books",
+      "fullName": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "language": "Python",
+      "stars": 392638,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/14127308?v=4"
+    },
+    {
+      "id": 21540759,
+      "name": "awesome-go",
+      "fullName": "avelino/awesome-go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "url": "https://github.com/avelino/awesome-go",
+      "language": "Go",
+      "stars": 178778,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/31996?v=4",
+      "descZh": "涉及Go与框架"
+    },
+    {
+      "id": 132464395,
+      "name": "JavaGuide",
+      "fullName": "Snailclimb/JavaGuide",
+      "description": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "language": "JavaScript",
+      "stars": 157181,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/29880145?v=4",
+      "descZh": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发"
+    },
+    {
+      "id": 695864515,
+      "name": "Deep-Live-Cam",
+      "fullName": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "language": "Python",
+      "stars": 95033,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/1267200?v=4",
+      "descZh": "关于命令行工具的内容"
+    },
+    {
+      "id": 909213664,
+      "name": "TradingAgents",
+      "fullName": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "language": "Python",
+      "stars": 93951,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/192884433?v=4",
+      "descZh": "涉及大语言模型与框架"
+    },
+    {
+      "id": 1158722119,
+      "name": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "language": "JavaScript",
+      "stars": 79637,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/110953?v=4",
+      "descZh": "关于编程智能体"
+    },
+    {
+      "id": 21935031,
+      "name": "awesome-cpp",
+      "fullName": "fffaraz/awesome-cpp",
+      "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+      "url": "https://github.com/fffaraz/awesome-cpp",
+      "language": null,
+      "stars": 72367,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/895678?v=4",
+      "descZh": "涉及C++、框架、远程代码执行等方向"
+    },
+    {
+      "id": 895508656,
+      "name": "ai-agents-for-beginners",
+      "fullName": "microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "language": "Jupyter Notebook",
+      "stars": 70009,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "descZh": "关于AI 智能体的内容"
+    },
+    {
+      "id": 666299222,
+      "name": "openinterpreter",
+      "fullName": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "language": "Rust",
+      "stars": 67014,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/163192481?v=4",
+      "descZh": "关于Kimi的内容"
+    },
+    {
+      "id": 620936652,
+      "name": "gpt4free",
+      "fullName": "xtekky/gpt4free",
+      "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
+      "url": "https://github.com/xtekky/gpt4free",
+      "language": "Python",
+      "stars": 66477,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/98614666?v=4",
+      "descZh": "涉及Gemini、Kimi、语言模型等方向"
+    },
+    {
+      "id": 42489829,
+      "name": "rustlings",
+      "fullName": "rust-lang/rustlings",
+      "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+      "url": "https://github.com/rust-lang/rustlings",
+      "language": "Rust",
+      "stars": 63588,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/5430905?v=4",
+      "descZh": "关于Rust的内容"
+    },
+    {
+      "id": 896144595,
+      "name": "ai-hedge-fund",
+      "fullName": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "language": "Python",
+      "stars": 62330,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/901795?v=4"
+    },
+    {
+      "id": 510607652,
+      "name": "pocketbase",
+      "fullName": "pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "language": "Go",
+      "stars": 60096,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/101000011?v=4",
+      "descZh": "涉及开源与远程代码执行"
+    },
+    {
+      "id": 551376520,
+      "name": "Pake",
+      "fullName": "tw93/Pake",
+      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "url": "https://github.com/tw93/Pake",
+      "language": "Rust",
+      "stars": 60076,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/8736212?v=4",
+      "descZh": "关于桌面"
+    },
+    {
+      "id": 290882787,
+      "name": "fuel-core",
+      "fullName": "FuelLabs/fuel-core",
+      "description": "Rust full node implementation of the Fuel v2 protocol.",
+      "url": "https://github.com/FuelLabs/fuel-core",
+      "language": "Rust",
+      "stars": 56951,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/55993183?v=4",
+      "descZh": "关于Rust的内容"
+    }
+  ],
+  "news": [
+    {
+      "id": 48966120,
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "points": 955,
+      "comments": 713,
+      "createdAt": 1784450697
+    },
+    {
+      "id": 48963879,
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "points": 763,
+      "comments": 164,
+      "createdAt": 1784421506
+    },
+    {
+      "id": 48960218,
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+      "points": 632,
+      "comments": 608,
+      "createdAt": 1784395960,
+      "titleZh": "关于Kimi的内容"
+    },
+    {
+      "id": 48966569,
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "points": 601,
+      "comments": 832,
+      "createdAt": 1784455403,
+      "titleZh": "涉及Claude与Rust"
+    },
+    {
+      "id": 48957779,
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "points": 599,
+      "comments": 390,
+      "createdAt": 1784379652,
+      "titleZh": "关于GPT-5的内容"
+    },
+    {
+      "id": 48962983,
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "points": 591,
+      "comments": 265,
+      "createdAt": 1784412819,
+      "titleZh": "涉及用户界面与Y Combinator"
+    },
+    {
+      "id": 48966713,
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "points": 550,
+      "comments": 256,
+      "createdAt": 1784457298
+    },
+    {
+      "id": 48956949,
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "points": 476,
+      "comments": 578,
+      "createdAt": 1784373166
+    },
+    {
+      "id": 48959090,
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "points": 469,
+      "comments": 205,
+      "createdAt": 1784389021,
+      "titleZh": "关于用户界面"
+    },
+    {
+      "id": 48956924,
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "points": 452,
+      "comments": 146,
+      "createdAt": 1784372810,
+      "titleZh": "关于Go的内容"
+    },
+    {
+      "id": 48964185,
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "points": 441,
+      "comments": 284,
+      "createdAt": 1784424559
+    },
+    {
+      "id": 48965850,
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "points": 368,
+      "comments": 164,
+      "createdAt": 1784447679,
+      "titleZh": "关于OpenAI的内容"
+    },
+    {
+      "id": 48964015,
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "points": 346,
+      "comments": 104,
+      "createdAt": 1784422795
+    },
+    {
+      "id": 48958269,
+      "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+      "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+      "points": 315,
+      "comments": 303,
+      "createdAt": 1784383482,
+      "titleZh": "关于禁止"
+    },
+    {
+      "id": 48963465,
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
+      "points": 308,
+      "comments": 200,
+      "createdAt": 1784417066,
+      "titleZh": "关于Codex"
+    },
+    {
+      "id": 48960155,
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "points": 291,
+      "comments": 266,
+      "createdAt": 1784395644,
+      "titleZh": "关于Go的内容"
+    },
+    {
+      "id": 48962758,
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "points": 258,
+      "comments": 202,
+      "createdAt": 1784411112
+    },
+    {
+      "id": 48956879,
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "points": 257,
+      "comments": 125,
+      "createdAt": 1784372429,
+      "titleZh": "涉及GPT-5与Go"
+    },
+    {
+      "id": 48959042,
+      "title": "Elixir-lang.org has a new design",
+      "url": "https://elixir-lang.org/",
+      "points": 253,
+      "comments": 136,
+      "createdAt": 1784388724
+    },
+    {
+      "id": 48959392,
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "points": 251,
+      "comments": 195,
+      "createdAt": 1784391128,
+      "titleZh": "关于Claude的内容"
+    }
+  ],
+  "papers": [
+    {
+      "id": "2607.18237v1",
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+      "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this g",
+      "url": "https://arxiv.org/abs/2607.18237v1",
+      "titleZh": "关于远程代码执行的内容",
+      "summaryZh": "关于远程代码执行的内容"
+    },
+    {
+      "id": "2607.18236v1",
+      "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+      "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial deta",
+      "url": "https://arxiv.org/abs/2607.18236v1",
+      "summaryZh": "涉及预训练、Transformer、机器人等方向"
+    },
+    {
+      "id": "2607.18235v1",
+      "title": "Automated Discovery Has No Universally Superior Harness",
+      "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery",
+      "url": "https://arxiv.org/abs/2607.18235v1"
+    },
+    {
+      "id": "2607.18232v1",
+      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+      "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presup",
+      "url": "https://arxiv.org/abs/2607.18232v1",
+      "titleZh": "关于大语言模型的内容",
+      "summaryZh": "关于大语言模型的内容"
+    },
+    {
+      "id": "2607.18230v1",
+      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+      "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level im",
+      "url": "https://arxiv.org/abs/2607.18230v1",
+      "summaryZh": "关于语言模型的内容"
+    },
+    {
+      "id": "2607.18228v1",
+      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+      "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled vari",
+      "url": "https://arxiv.org/abs/2607.18228v1",
+      "summaryZh": "关于基准测试的内容"
+    },
+    {
+      "id": "2607.18227v1",
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "summary": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated proc",
+      "url": "https://arxiv.org/abs/2607.18227v1",
+      "summaryZh": "关于研究"
+    },
+    {
+      "id": "2607.18226v1",
+      "title": "Causal Discovery on Irregular Time Series",
+      "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as senso",
+      "url": "https://arxiv.org/abs/2607.18226v1",
+      "summaryZh": "关于用户界面"
+    },
+    {
+      "id": "2607.18225v1",
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the gener",
+      "url": "https://arxiv.org/abs/2607.18225v1",
+      "titleZh": "关于检索增强生成(RAG)的内容",
+      "summaryZh": "涉及检索增强生成(RAG)与框架"
+    },
+    {
+      "id": "2607.18218v1",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+      "summary": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spa",
+      "url": "https://arxiv.org/abs/2607.18218v1",
+      "titleZh": "关于基础模型的内容",
+      "summaryZh": "涉及基础模型与远程代码执行"
+    },
+    {
+      "id": "2607.18217v1",
+      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+      "summary": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and a",
+      "url": "https://arxiv.org/abs/2607.18217v1",
+      "titleZh": "涉及多模态与Intel"
+    },
+    {
+      "id": "2607.18213v1",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of c",
+      "url": "https://arxiv.org/abs/2607.18213v1",
+      "titleZh": "关于大语言模型的内容"
+    }
+  ],
+  "articles": []
+}

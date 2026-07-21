@@ -1,0 +1,984 @@
+{
+  "date": "2026-07-21",
+  "generatedBy": "WorkBuddy AI Signal Translator",
+  "generatedAt": "2026-07-21T16:06:10.949Z",
+  "aiTranslated": true,
+  "github": [
+    {
+      "id": 132750724,
+      "descZh": "通过从零复刻你喜欢的科技产品来掌握编程"
+    },
+    {
+      "id": 28457823,
+      "descZh": "freeCodeCamp 开源代码库与课程体系，免费学习数学、编程与计算机科学"
+    },
+    {
+      "id": 54346799,
+      "descZh": "免费公开 API 汇总清单"
+    },
+    {
+      "id": 13491895,
+      "descZh": "可免费获取的编程书籍合集"
+    },
+    {
+      "id": 1103012935,
+      "descZh": "你自己的个人 AI 助手，可跨任意操作系统与平台运行（lobster 风格）"
+    },
+    {
+      "id": 85077558,
+      "descZh": "交互式开发者成长路线图、指南与教程，助力职业发展"
+    },
+    {
+      "id": 21289110,
+      "descZh": "精选的 Python 框架、库、工具与资源清单"
+    },
+    {
+      "id": 36633370,
+      "descZh": "可自行部署的免费软件网络服务与 Web 应用清单"
+    },
+    {
+      "id": 88011908,
+      "descZh": "基于实战项目的学习教程合集"
+    },
+    {
+      "id": 1073224795,
+      "descZh": "一套可落地的智能体技能框架与软件开发方法论"
+    },
+    {
+      "id": 10270250,
+      "descZh": "用于构建 Web 与原生用户界面的 JavaScript 库"
+    },
+    {
+      "id": 2325298,
+      "descZh": "Linux 内核源码树"
+    },
+    {
+      "id": 1136590548,
+      "descZh": "智能体运行框架性能优化系统：为 Claude Code、Codex、Opencode、Cursor 等提供技能、直觉、记忆、安全与以研究为先的开发能力"
+    },
+    {
+      "id": 63476337,
+      "descZh": "用 Python 实现的所有算法合集"
+    },
+    {
+      "id": 1024554267,
+      "descZh": "会随你一起成长的智能体"
+    }
+  ],
+  "news": [
+    {
+      "id": 48993414,
+      "titleZh": "Google 推出 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber"
+    },
+    {
+      "id": 48993448,
+      "titleZh": "美国移民局 ICE 将向汤森路透支付 1.25 亿美元以追查选民欺诈"
+    },
+    {
+      "id": 48992870,
+      "titleZh": "苹果因未扫描 iCloud 中的 CSAM 而免于担责"
+    },
+    {
+      "id": 48993059,
+      "titleZh": "Claude 不是编译器"
+    },
+    {
+      "id": 48992669,
+      "titleZh": "仅过去 24 小时就发布了 400 多个 Linux CVE 漏洞"
+    },
+    {
+      "id": 48993465,
+      "titleZh": "在审查加剧之际，ICE 的拘留与遣返数据悄然下架"
+    },
+    {
+      "id": 48993130,
+      "titleZh": "Gemini 3.6 Flash"
+    },
+    {
+      "id": 48993488,
+      "titleZh": "Oracle 或因威斯康星数据中心面临 70 亿美元保证金账单"
+    },
+    {
+      "id": 48992960,
+      "titleZh": "Sarah 的赌注"
+    },
+    {
+      "id": 48992731,
+      "titleZh": "Gemini 3.6 Flash 已在 AI Studio 发布"
+    },
+    {
+      "id": 48993643,
+      "titleZh": "拥抱 Git：在 Git 上重建 ReadMe"
+    },
+    {
+      "id": 48993371,
+      "titleZh": "Granola AI 笔记应用存在一键账户接管漏洞"
+    },
+    {
+      "id": 48993085,
+      "titleZh": "Zef 编程语言"
+    },
+    {
+      "id": 48993003,
+      "titleZh": "Show HN：Inflexa——面向生物学的开源智能工具"
+    },
+    {
+      "id": 48992588,
+      "titleZh": "AI 公司大量收购旧书，因其不含 AI 生成垃圾内容"
+    },
+    {
+      "id": 48992436,
+      "titleZh": "Gumroad 在 AI token 与人力薪酬上支出相当"
+    },
+    {
+      "id": 48993926,
+      "titleZh": "AI 如何把抗拒工会的科技从业者推上谈判桌"
+    },
+    {
+      "id": 48993897,
+      "titleZh": "Light Flip：Light Phone 的翻盖新机"
+    },
+    {
+      "id": 48993816,
+      "titleZh": "西非发现一片曾被认为早已消亡的繁茂珊瑚礁"
+    },
+    {
+      "id": 48993436,
+      "titleZh": "Mullvad 与 Daniel Berntsson 失败的清理行动"
+    },
+    {
+      "id": 48993010,
+      "titleZh": "Show HN：Hale——一种并发系统编程语言"
+    },
+    {
+      "id": 48992894,
+      "titleZh": "Show HN：Instancez——声明式、单文件二进制的开源 Supabase 替代品"
+    },
+    {
+      "id": 48992876,
+      "titleZh": "少即是多：发送者-接收者博弈中欺骗行为的演化动力学"
+    },
+    {
+      "id": 48992852,
+      "titleZh": "追踪苹果到 OpenAI 的人才流动：283 次变动，44% 来自硬件部门"
+    },
+    {
+      "id": 48992806,
+      "titleZh": "128 位对称密钥能抵御量子计算机吗？"
+    },
+    {
+      "id": 48992750,
+      "titleZh": "声称 AI 有助学生学习的研究被撤稿"
+    },
+    {
+      "id": 48992707,
+      "titleZh": "Show HN：一款类似拼字游戏的西班牙语词汇学习应用"
+    },
+    {
+      "id": 48992633,
+      "titleZh": "2026 年迄今最佳游戏"
+    },
+    {
+      "id": 48992482,
+      "titleZh": "Revolut 扩张波兰：新增 300 个岗位与华沙新办公室"
+    },
+    {
+      "id": 48992449,
+      "titleZh": "美国科学再亮红灯"
+    },
+    {
+      "id": 48992364,
+      "titleZh": "安全与隐私之争"
+    },
+    {
+      "id": 48993969,
+      "titleZh": "我们重回通才的时代"
+    },
+    {
+      "id": 48993960,
+      "titleZh": "Show HN：基于 herdr、Claude 与 GPT-5.6-sol 的对抗式代码审查方案"
+    },
+    {
+      "id": 48993959,
+      "titleZh": "微软的「小变通」如何酿成五角大楼的重大威胁"
+    },
+    {
+      "id": 48993955,
+      "titleZh": "于是，我试着做了一个 Android 应用"
+    },
+    {
+      "id": 48993939,
+      "titleZh": "如果你想对抗 AI，就构建一个 Civboot"
+    },
+    {
+      "id": 48993885,
+      "titleZh": "NPM 的发布冷却期只是安全幌子"
+    },
+    {
+      "id": 48993874,
+      "titleZh": "如何自己构建智能体基础设施"
+    },
+    {
+      "id": 48993862,
+      "titleZh": "Show HN：Basecheck agent——本地数据库检查工具，输出 HTTP/syslog"
+    },
+    {
+      "id": 48993846,
+      "titleZh": "新技术如何改变商业模式"
+    },
+    {
+      "id": 48993737,
+      "titleZh": "为何伊朗战争尚未引发全球石油危机"
+    },
+    {
+      "id": 48993682,
+      "titleZh": "我们将 Flink 的 OOMKills 降低 91.2%：僵尸块缓存与幽灵 CPU 之谜"
+    },
+    {
+      "id": 48993637,
+      "titleZh": "在 404 Media 报道后，苹果修复了 Hide My Email 漏洞"
+    },
+    {
+      "id": 48993613,
+      "titleZh": "争议间谍软件公司联合创始人持有以色列外交护照"
+    },
+    {
+      "id": 48993571,
+      "titleZh": "使用 AI 让人更不愿承认自己不知道某事"
+    },
+    {
+      "id": 48993553,
+      "titleZh": "Gemini 3.5 Flash Cyber"
+    },
+    {
+      "id": 48993540,
+      "titleZh": "Open-ultra：一个自训练 LLM 路由代理"
+    },
+    {
+      "id": 48993466,
+      "titleZh": "借助 Fable 工具，找到 Bellman「迷失森林」问题的新上界"
+    },
+    {
+      "id": 48993461,
+      "titleZh": "OpenRaft：带改进项的异步 Rust Raft 库"
+    },
+    {
+      "id": 48993449,
+      "titleZh": "Wordtrak Daily：一款受拼字与填字游戏启发的文字游戏"
+    },
+    {
+      "id": 48993444,
+      "titleZh": "如何将本地 MongoDB 集合复制并同步到 Atlas"
+    },
+    {
+      "id": 48993426,
+      "titleZh": "智能体混沌（Agentic Chaos）"
+    },
+    {
+      "id": 48993420,
+      "titleZh": "如何在 Docker 中备份 PostgreSQL（本地、S3 与 Plakar）"
+    },
+    {
+      "id": 48993411,
+      "titleZh": "中国考虑对 AI 模型与芯片实施更严格的出口管制"
+    },
+    {
+      "id": 48993352,
+      "titleZh": "谷歌发布 Gemini 3.6 Flash，并预告 Gemini 4"
+    },
+    {
+      "id": 48993296,
+      "titleZh": "AI 美学热潮不会看起来像 AI"
+    },
+    {
+      "id": 48993285,
+      "titleZh": "Show HN：Vestige——面向多智能体编码集群的无查询记忆层"
+    },
+    {
+      "id": 48993275,
+      "titleZh": "域名注册信息应当透明"
+    },
+    {
+      "id": 48993213,
+      "titleZh": "预测市场正在催生一种新型内幕交易者"
+    },
+    {
+      "id": 48993188,
+      "titleZh": "Mooers 定律（2007）"
+    },
+    {
+      "id": 48993143,
+      "titleZh": "AOL 即时通讯是 2000 年代初的无名英雄"
+    },
+    {
+      "id": 48993098,
+      "titleZh": "Ask HN：你如何向 LLM 输入？打字、语音，还是其他方式？"
+    },
+    {
+      "id": 48993075,
+      "titleZh": "大众汽车禁止刷机（自定义 ROM）用户使用 VW 应用"
+    },
+    {
+      "id": 48993054,
+      "titleZh": "Xteink X4 Pro"
+    },
+    {
+      "id": 48993046,
+      "titleZh": "Show HN：SquadAI 是面向 Codex 智能体的类 Kubernetes 控制平面"
+    },
+    {
+      "id": 48993017,
+      "titleZh": "一款「欧洲」密码管理器令人不安的俄罗斯关联"
+    },
+    {
+      "id": 48992986,
+      "titleZh": "Who am AI——盘问一个扮演秘密角色的 AI，十问十答"
+    },
+    {
+      "id": 48992982,
+      "titleZh": "Antares：用于漏洞定位的开权重（open-weight）AI 模型"
+    },
+    {
+      "id": 48992972,
+      "titleZh": "一个防止直接向 main 提交的 Git hook"
+    },
+    {
+      "id": 48992915,
+      "titleZh": "应避免或谨慎使用的词汇（因其带有倾向或易引起混淆）"
+    },
+    {
+      "id": 48992903,
+      "titleZh": "手持球棒的克里斯托弗·诺兰在《奥德赛》放映期间对峙如厕男子"
+    },
+    {
+      "id": 48992895,
+      "titleZh": "微软将租用 Mistral 的 GPU，金额达数十亿美元"
+    },
+    {
+      "id": 48992877,
+      "titleZh": "Show HN：Ctoken——统计文件、目录或输入中 LLM token 数的命令行工具"
+    },
+    {
+      "id": 48992848,
+      "titleZh": "第一份 Pull Request 曾经像抛硬币一样靠运气"
+    },
+    {
+      "id": 48992843,
+      "titleZh": "AI 部署在哪里，比它有多聪明更重要——在阿联酋尤其如此"
+    },
+    {
+      "id": 48992841,
+      "titleZh": "LLM Margin Lab"
+    },
+    {
+      "id": 48992839,
+      "titleZh": "从 Lookout Mountain 能看见七个州吗？我们追踪了每一条视线"
+    },
+    {
+      "id": 48992838,
+      "titleZh": "AWS SageMaker 将停止支持模型/数据质量监控"
+    },
+    {
+      "id": 48992814,
+      "titleZh": "Moiré Sea（摩尔纹之海）"
+    },
+    {
+      "id": 48992772,
+      "titleZh": "0.08 秒完成一致的多视角 3D 头部重建"
+    },
+    {
+      "id": 48992709,
+      "titleZh": "海量 GIF 图"
+    },
+    {
+      "id": 48992677,
+      "titleZh": "Powerball 彩票周二起在英国开售"
+    },
+    {
+      "id": 48992657,
+      "titleZh": "台积电将从 2027 年起将代工价格最高上调 10%"
+    },
+    {
+      "id": 48992639,
+      "titleZh": "我的健身追踪器比我更早知道我怀孕了"
+    },
+    {
+      "id": 48992545,
+      "titleZh": "互联网上最古老的域名，可逐年浏览"
+    },
+    {
+      "id": 48992539,
+      "titleZh": "缓存工作原理的直观讲解"
+    },
+    {
+      "id": 48992527,
+      "titleZh": "我花 2000 欧元买了个应用；同事用 vibe coding 免费写出了同款"
+    },
+    {
+      "id": 48992496,
+      "titleZh": "自下而上路线图的隐患"
+    },
+    {
+      "id": 48992492,
+      "titleZh": "Show HN：Aeon.WorX——通用对象生命周期管理系统（类似 PLM/PDM）"
+    },
+    {
+      "id": 48992486,
+      "titleZh": "昂贵如今只是一种品牌"
+    },
+    {
+      "id": 48992474,
+      "titleZh": "Show HN：将 Claude Code 会话从 Codespaces 备份到私有仓库"
+    },
+    {
+      "id": 48992467,
+      "titleZh": "如何避免职业过早见顶"
+    },
+    {
+      "id": 48992375,
+      "titleZh": "Show HN：LLM 上下文分析器，追踪工具、智能体与 MCP 的上下文用量"
+    },
+    {
+      "id": 48994065,
+      "titleZh": "泰坦尼克号乘客信件披露灾难前的船上生活"
+    },
+    {
+      "id": 48994063,
+      "titleZh": "电动汽车充电桩上的 CCS2 攻击面"
+    },
+    {
+      "id": 48994061,
+      "titleZh": "生物物理学：探寻原理（2011）[pdf]"
+    },
+    {
+      "id": 48994060,
+      "titleZh": "Tokenizer 扩展：就地升级模型的词元器"
+    },
+    {
+      "id": 48994041,
+      "titleZh": "Show HN：符合 OSHA 标准的施工现场访客签到免费模板"
+    },
+    {
+      "id": 48994025,
+      "titleZh": "Ask HN：该做一个什么样的「止痛药」式 SaaS 点子？"
+    },
+    {
+      "id": 48994016,
+      "titleZh": "智能体支付全景图（Agentic Payments Landscape）"
+    },
+    {
+      "id": 48994000,
+      "titleZh": "Show HN：Sta6——面向 Common Lisp 的微型静态站点生成器（打包器）"
+    },
+    {
+      "id": 48993988,
+      "titleZh": "Ask HN：为何 1Password 扩展在浏览器控制台输出调试日志？"
+    },
+    {
+      "id": 48993983,
+      "titleZh": "日本三成严重工伤涉及 60 岁以上劳动者"
+    },
+    {
+      "id": 48993967,
+      "titleZh": "AI 芯片热潮能否让 ASML 成为欧洲首家市值万亿美元的公司？"
+    },
+    {
+      "id": 48993964,
+      "titleZh": "意大利投入 1000 万欧元对抗入侵的蓝蟹"
+    },
+    {
+      "id": 48993952,
+      "titleZh": "笔记本电脑就是新的生产环境"
+    },
+    {
+      "id": 48993935,
+      "titleZh": "Show HN：Mozilla 砍掉 Orbit，于是我做了个本地 LLM 浏览器扩展"
+    },
+    {
+      "id": 48993907,
+      "titleZh": "用 GoPro 与 FFmpeg 诊断车轮动平衡"
+    },
+    {
+      "id": 48993902,
+      "titleZh": "Nvidia Cosmos 3 Edge"
+    },
+    {
+      "id": 48993857,
+      "titleZh": "Gemini 3.6 Flash（High）智能、性能与价格分析"
+    },
+    {
+      "id": 48993794,
+      "titleZh": "Garmin 智能手环"
+    },
+    {
+      "id": 48993790,
+      "titleZh": "我做 AI 图书出版商学到的事"
+    },
+    {
+      "id": 48993789,
+      "titleZh": "很久不见「海」：寻找海马 emoji"
+    },
+    {
+      "id": 48993741,
+      "titleZh": "USBridge Remote——开源的软硬件混合远程访问方案"
+    },
+    {
+      "id": 48993740,
+      "titleZh": "硬件也需要全栈式 AI 开发环境"
+    },
+    {
+      "id": 48993731,
+      "titleZh": "Show HN：Lucen——通过注释 pragma 并行化 for 循环的 Python 编译器"
+    },
+    {
+      "id": 48993724,
+      "titleZh": "TT-Ascalon S（Tenstorrent 的 RISC-V CPU）"
+    },
+    {
+      "id": 48993690,
+      "titleZh": "Ask HN：Claude 盲测结果：是 bug 还是特性？"
+    },
+    {
+      "id": 48993677,
+      "titleZh": "你不是产品转型失败，而是玩错了游戏"
+    },
+    {
+      "id": 48993673,
+      "titleZh": "Show HN：以交互式星座图探索 251 个 Bevy crate"
+    },
+    {
+      "id": 48993671,
+      "titleZh": "每天 3–5 杯咖啡与较低心血管疾病风险相关"
+    },
+    {
+      "id": 48993668,
+      "titleZh": "能源危机正加速新兴经济体的低碳转型"
+    },
+    {
+      "id": 48993632,
+      "titleZh": "VeryDRM 内容安全平台用 DRM 保护 PDF"
+    },
+    {
+      "id": 48993615,
+      "titleZh": "三星 Galaxy Card"
+    },
+    {
+      "id": 48993609,
+      "titleZh": "Show HN：Byre——注重舒适度的免费智能体沙盒"
+    },
+    {
+      "id": 48993608,
+      "titleZh": "好莱坞科幻片场被提议改作制造真实「太空时代」武器的基地"
+    },
+    {
+      "id": 48993606,
+      "titleZh": "Show HN：在我们这款纯智能体 MMO 中，一人可操控 200 个 AI 智能体"
+    },
+    {
+      "id": 48993589,
+      "titleZh": "Show HN：一个开源衍生品定价平台"
+    },
+    {
+      "id": 48993585,
+      "titleZh": "深入解析 Nvidia Vera CPU：新架构细节与 SPEC CPU 2026 基准"
+    },
+    {
+      "id": 48993580,
+      "titleZh": "Kittine：用于 Rust 驱动 Web 应用的定制语言"
+    },
+    {
+      "id": 48993579,
+      "titleZh": "Show HN：Loopweave——从音频文件中提取无缝循环"
+    },
+    {
+      "id": 48993565,
+      "titleZh": "AI 编码助手策略大幅削减 token 开销"
+    },
+    {
+      "id": 48993562,
+      "titleZh": "Show HN：Talyn——追踪 GitHub PR 并交接日常工作的应用"
+    },
+    {
+      "id": 48993556,
+      "titleZh": "智能体不知道另一个智能体做了什么"
+    },
+    {
+      "id": 48993528,
+      "titleZh": "英国政府说明：保护儿童上网的新规"
+    },
+    {
+      "id": 48993446,
+      "titleZh": "末日时代"
+    },
+    {
+      "id": 48993443,
+      "titleZh": "Snap 在陪审团审判前接近和解成瘾诉讼"
+    },
+    {
+      "id": 48993435,
+      "titleZh": "Gemini 3.6 Flash"
+    },
+    {
+      "id": 48993423,
+      "titleZh": "Show HN：OpenAI 黑客松作品：ADE"
+    },
+    {
+      "id": 48993421,
+      "titleZh": "Agentpause：在触达速率限制前挂起 LLM 智能体，并能干净地恢复"
+    },
+    {
+      "id": 48993408,
+      "titleZh": "LLM——99% 无幻觉输出"
+    },
+    {
+      "id": 48993394,
+      "titleZh": "Show HN：Application Signal——评估你 YC 创业点子的 AI"
+    },
+    {
+      "id": 48993384,
+      "titleZh": "Show HN：VitCam——自托管的智能摄像头监控与 NVR"
+    },
+    {
+      "id": 48993380,
+      "titleZh": "Show HN：Letterphile——用一个字母拼出多个单词的文字游戏"
+    },
+    {
+      "id": 48993374,
+      "titleZh": "垫球、传球、扣杀：女子排球为何突然遍地开花"
+    },
+    {
+      "id": 48993370,
+      "titleZh": "加州针对州政府使用的 AI 透明法案注定失败"
+    },
+    {
+      "id": 48993324,
+      "titleZh": "算法可视化"
+    },
+    {
+      "id": 48993318,
+      "titleZh": "Show HN：Austen——发现故事之间的关系"
+    },
+    {
+      "id": 48993301,
+      "titleZh": "下一轮注意力经济没有眼球，只有权限"
+    },
+    {
+      "id": 48993280,
+      "titleZh": "Show HN：Season DFS——运营整赛季的每日梦幻橄榄球（DFS）联赛"
+    },
+    {
+      "id": 48993268,
+      "titleZh": "Cloak：保护你的艺术免受 AI 剽窃"
+    },
+    {
+      "id": 48993261,
+      "titleZh": "中芯国际 7nm N+3 节点在无 EUV 下金属间距优于 Intel 18A"
+    },
+    {
+      "id": 48993255,
+      "titleZh": "Show HN：Selenium Boot——Java 中类 Spring Boot 的 Selenium 测试框架"
+    },
+    {
+      "id": 48993250,
+      "titleZh": "Show HN：Genesys——面向 AI 智能体的因果图记忆，开源"
+    },
+    {
+      "id": 48993241,
+      "titleZh": "Show HN：预测市场事件概率的时点数据集"
+    },
+    {
+      "id": 48993225,
+      "titleZh": "Show HN：首个开源扩散式（Diffusion）ASR 音频模型，比 Whisper 快 15 倍"
+    },
+    {
+      "id": 48993220,
+      "titleZh": "Show HN：兼容 OpenAI 的 Cloudflare AI 端点生成器"
+    },
+    {
+      "id": 48993218,
+      "titleZh": "Linux BPF 的超能力（2016）"
+    },
+    {
+      "id": 48993199,
+      "titleZh": "Show HN：Neverclick——基于本地计算机视觉的键盘驱动鼠标控制"
+    },
+    {
+      "id": 48993198,
+      "titleZh": "Show HN：MonteSheet——在 Google Sheets 中约 1.9 秒跑完 10 万次蒙特卡洛模拟"
+    },
+    {
+      "id": 48993191,
+      "titleZh": "免费浏览器工具——无需账号、不上传服务器、全部本地运行"
+    },
+    {
+      "id": 48993189,
+      "titleZh": "预测市场：你永远是在和庄家对赌"
+    },
+    {
+      "id": 48993186,
+      "titleZh": "Sam Altman 关于全民基本收入的研究倡议（2016）"
+    },
+    {
+      "id": 48993169,
+      "titleZh": "使用 SSH 堡垒机，但只在我要离线出门时"
+    },
+    {
+      "id": 48993152,
+      "titleZh": "Ears Pro——专业耳机测试夹具"
+    },
+    {
+      "id": 48993127,
+      "titleZh": "Show HN：Weight Scope——实时观察与修改深度网络训练过程 [视频]"
+    },
+    {
+      "id": 48993080,
+      "titleZh": "用加州的 Drop 工具保护你的隐私"
+    },
+    {
+      "id": 48993030,
+      "titleZh": "无追踪的快速「我的 IP 是什么」查询"
+    },
+    {
+      "id": 48992992,
+      "titleZh": "一个（好用的）Java 逆向工程工具"
+    },
+    {
+      "id": 48992969,
+      "titleZh": "ATProto 实践 #1：身份（Identity）"
+    },
+    {
+      "id": 48992967,
+      "titleZh": "OWASP 智能体 AI Top 10：AWS 上的构建者需要了解什么"
+    },
+    {
+      "id": 48992916,
+      "titleZh": "如何应对「Dickover」（被巨头反复戏弄）"
+    },
+    {
+      "id": 48992875,
+      "titleZh": "物理 AI 的控制理论分类体系"
+    },
+    {
+      "id": 48992846,
+      "titleZh": "像分支代码一样分支数据库：Glaspoort 上 Lakebase 的 CI/CD 模式"
+    },
+    {
+      "id": 48992813,
+      "titleZh": "用矩形树图可视化医疗代码层级"
+    },
+    {
+      "id": 48992807,
+      "titleZh": "低平方和"
+    },
+    {
+      "id": 48992804,
+      "titleZh": "AI 是「思维件」（ThoughtWare）而非软件：我们所知的思考的终结"
+    },
+    {
+      "id": 48992801,
+      "titleZh": "用并行状态机让 `wc` 提速 20 倍"
+    },
+    {
+      "id": 48992797,
+      "titleZh": "Ask HN：LLM 是否正在取代个人项目代码的开源生态？"
+    },
+    {
+      "id": 48992773,
+      "titleZh": "Show HN：Rowset——面向 AI 智能体的开源后端"
+    },
+    {
+      "id": 48992756,
+      "titleZh": "Show HN：按能耗等级着色的全法建筑 3D 地图（开放数据）"
+    },
+    {
+      "id": 48992735,
+      "titleZh": "Show HN：用聊天界面管理共享相册"
+    },
+    {
+      "id": 48992715,
+      "titleZh": "TekmerDB——标记矛盾事实而非取平均的数据库"
+    },
+    {
+      "id": 48992660,
+      "titleZh": "Show HN：Keyvok——使用 DPAPI 的离线 Windows 密码管理器"
+    },
+    {
+      "id": 48992621,
+      "titleZh": "AI 智能体应提议基础设施变更，而非直接改动它"
+    },
+    {
+      "id": 48992612,
+      "titleZh": "Show HN：Molyin 上的 HappyHorse 视频生成，本周免费"
+    },
+    {
+      "id": 48992608,
+      "titleZh": "你希望存在什么样的 iOS 应用？"
+    },
+    {
+      "id": 48992589,
+      "titleZh": "元垃圾回收：用 OCaml 的 GC 来 GC Rust"
+    },
+    {
+      "id": 48992565,
+      "titleZh": "软件工程是一场「比烂」的竞赛"
+    },
+    {
+      "id": 48992560,
+      "titleZh": "Show HN：探索 HN 帖子趋势，用 Embeddings/KMeans/DuckDB 做 ETL"
+    },
+    {
+      "id": 48992556,
+      "titleZh": "比免费更好"
+    },
+    {
+      "id": 48992540,
+      "titleZh": "Show HN：我做了个隐私优先的 DocuSign 替代品，托管在家里的电脑上"
+    },
+    {
+      "id": 48992536,
+      "titleZh": "前沿模型评测中的作弊行为"
+    },
+    {
+      "id": 48992520,
+      "titleZh": "文档基金会：微软的文件格式让用户被牢牢牵制"
+    },
+    {
+      "id": 48992518,
+      "titleZh": "Xteink X4 Pro 电子墨水阅读器发布，配备前置光源 [视频]"
+    },
+    {
+      "id": 48992514,
+      "titleZh": "我曾管理 40 人的电商团队，而这个平台用两人就做到了"
+    },
+    {
+      "id": 48992476,
+      "titleZh": "单一答案让你变笨"
+    },
+    {
+      "id": 48992431,
+      "titleZh": "Loop the Loopies"
+    },
+    {
+      "id": 48992418,
+      "titleZh": "SWE 涵盖十几种不同工作，我做了个免费工具帮你定位适合哪种"
+    },
+    {
+      "id": 48992368,
+      "titleZh": "我们的界面正在丧失「感官」"
+    }
+  ],
+  "papers": [
+    {
+      "id": "2607.18237v1",
+      "titleZh": "视觉相似性的多重含义：一种由文本提示驱动的图像感知度量",
+      "summaryZh": "人类的视觉相似判断依赖具体情境（例如两图形状相似但颜色不同）。现有感知相似度量将这种差异压缩成单一标量，无法按特定维度进行条件化。本文提出一种由文本提示驱动的图像感知相似度量，可对相似性的不同面向进行条件控制。"
+    },
+    {
+      "id": "2607.18236v1",
+      "titleZh": "Patch Policy：通过稠密视觉表征实现高效具身控制",
+      "summaryZh": "来自 Vision Transformer（ViT）的预训练稠密视觉特征强大却鲜少用于机器人学习。本文提出 Patch Policy，利用稠密视觉表征保留细粒度空间细节，实现高效的具身（机器人）控制。"
+    },
+    {
+      "id": "2607.18235v1",
+      "titleZh": "自动发现并不存在普遍更优的框架（harness）",
+      "summaryZh": "OpenEvolve、TTT-Discover 等自主发现系统常被当作通用框架使用，但实际上它们是档案、父代选择、探索与预算分配等多种设计选择的组合。本文表明不存在普遍更优的 harness，不同任务需不同配置。"
+    },
+    {
+      "id": "2607.18232v1",
+      "titleZh": "重点不在你说什么，而在你怎么说：评估 LLM 对信念表达的回应",
+      "summaryZh": "用户常以多样的语言形式向 LLM 表达自身信念。本文研究 LLM 应在何时接受这些信念为真、何时坚持自身先验知识，并构建了相应的评估基准。"
+    },
+    {
+      "id": "2607.18230v1",
+      "titleZh": "现代 VLM 中面向强像素级图像篡改检测的简易域泛化方法",
+      "summaryZh": "随着现代视觉语言模型（VLM）的图像生成与编辑能力增强，跨模型、分布外场景下的像素级篡改检测愈发重要。本文研究了像素级图像篡改检测的域泛化（domain generalization）方法。"
+    },
+    {
+      "id": "2607.18228v1",
+      "titleZh": "压力下的逻辑判断：用学习型软前缀诊断三段论稳定性",
+      "summaryZh": "为检验正确逻辑判断如何受所学上下文影响，本文在精确标注的三段论推理基准前添加软前缀（soft prefix）并保持模型固定，通过受控变量刻画软前缀引发的行为变化。"
+    },
+    {
+      "id": "2607.18227v1",
+      "titleZh": "FlowMimic：基于像素对扭曲流场、面向在线视频编辑数据生成与模态模仿的无掩码视觉编辑与生成",
+      "summaryZh": "本文探索在单一模型中同时集成视频与图像的生成与编辑能力，并提出 FlowMimic，利用像素对扭曲的流场（flow field）实现无掩码（mask-free）视觉编辑与生成，并用于自动生成在线视频编辑训练数据。"
+    },
+    {
+      "id": "2607.18226v1",
+      "titleZh": "不规则时间序列上的因果发现",
+      "summaryZh": "现有因果发现方法通常依赖规则、离散的滞后结构，难以处理不规则采样数据。本文提出适用于不规则时间序列（如传感器事件流）的因果发现方法。"
+    },
+    {
+      "id": "2607.18225v1",
+      "titleZh": "将向量检索视为最近邻匹配：因果推断中基于 RAG 的策略学习",
+      "summaryZh": "本文在潜在结果（potential outcome）框架下提出一步与两步的检索增强生成（RAG）策略学习方法，其中向量检索在嵌入空间中召回与动作相关的邻近证据，用于因果推断中的策略学习。"
+    },
+    {
+      "id": "2607.18218v1",
+      "titleZh": "GigaPath-Flash 与 GigaTIME-Flash：面向全切片与肿瘤微环境分析的高效病理基础模型",
+      "summaryZh": "基础模型正成为计算病理学的核心驱动力。本文提出 GigaPath-Flash 与 GigaTIME-Flash，高效的全切片（whole-slide）与肿瘤微环境分析病理基础模型，可助力癌症诊断、预后与治疗选择。"
+    },
+    {
+      "id": "2607.18217v1",
+      "titleZh": "HOMIE：通过多模态智能增强实现以人-物为中心的视频个性化",
+      "summaryZh": "人以物为中心的视频个性化（HOCVP）是主体驱动视频生成的核心任务。本文提出 HOMIE，通过多模态智能增强（multimodal intelligent enhancement）在主体保真度与运动自然度之间取得更好平衡。"
+    },
+    {
+      "id": "2607.18213v1",
+      "titleZh": "SWE-Pruner Pro：编程 LLM 已知道该剪掉什么",
+      "summaryZh": "为编码智能体裁剪长上下文是高效的上下文管理技术。现有方法（如 SWE-Pruner）依赖单独的分类器，而本文发现智能体自身已编码了代码相关性的内部表示，据此提出 SWE-Pruner Pro 直接利用模型内部信号剪枝。"
+    }
+  ],
+  "articles": [
+    {
+      "id": 4194719,
+      "titleZh": "你在重抛错误并丢失上下文，`Error.cause` 能解决这个问题",
+      "descZh": "讲解 JavaScript 错误处理中的隐性问题：在深层调用栈捕获错误并重新包装时，原始上下文易丢失；使用 Error.cause 可保留错误链与上下文。"
+    },
+    {
+      "id": 4190539,
+      "titleZh": "AI 编码智能体仍在写你 SDK 的旧 API——于是我写了个类型检查器来度量它",
+      "descZh": "作者发现 AI 编码助手常针对库（如 Prisma）写出过时的旧 API 调用，遂构建类型检查器量化这一问题并评估各模型的准确性。"
+    },
+    {
+      "id": 4196517,
+      "titleZh": "RAG 不是 AI 问题，而是披着 AI 外衣的数据工程问题",
+      "descZh": "文章指出从教程到生产的落差根源在数据工程：RAG 系统的成败关键在于数据质量与管线，而非模型本身。"
+    },
+    {
+      "id": 4180473,
+      "titleZh": "AI 改变了我选择框架的方式，以及 React 幸存下来的两处场景",
+      "descZh": "作者回顾在 AI 辅助下构建项目时框架选型的变化，并指出 React 仍在桌面应用和某一特定场景中保有一席之地。"
+    },
+    {
+      "id": 4192379,
+      "titleZh": "Rizzzler 又变得更强大了！",
+      "descZh": "作者介绍其 Rizzzler 项目的新版本更新与新增功能，感谢社区支持并分享改进亮点。"
+    },
+    {
+      "id": 4192403,
+      "titleZh": "记分牌在说谎，现在 Sentry 能指出是哪一层出了问题",
+      "descZh": "本文为 DEV 与 Sentry 联合举办的 Summer Bug Smash 投稿，展示如何用 Sentry 在多层架构中定位具体出错的服务层。"
+    },
+    {
+      "id": 4192769,
+      "titleZh": "微调 MuRIL 进行多语言市民诉求分类（含我踩过的所有坑）",
+      "descZh": "作者构建了一个将印度市民诉求（印地语 / Hinglish / 英语）路由分类的文本分类器，并分享微调 MuRIL 模型过程中的各类问题与解法。"
+    },
+    {
+      "id": 4192115,
+      "titleZh": "当同一事件在你的图谱里变成五个独立事件",
+      "descZh": "作者讲述如何为覆盖韩、日、中、英东亚企业新闻的多语言知识图谱，构建跨文档事件共指（coreference）消解能力。"
+    },
+    {
+      "id": 4189278,
+      "titleZh": "上个月我们拒绝了一个 20 万美元的项目——原因如下",
+      "descZh": "一家技术公司讲述为何拒绝某 B 轮金融科技公司开出的 20 万美元整体客服系统外包项目，并剖析背后的取舍。"
+    },
+    {
+      "id": 4188665,
+      "titleZh": "什么是 PEFT？参数高效微调指南",
+      "descZh": "一篇技术指南，对比 LoRA、QLoRA、rsLoRA、AdaLoRA、DoRA、IA³、prompt tuning 与 adapter 等参数高效微调（PEFT）方法。"
+    }
+  ]
+}

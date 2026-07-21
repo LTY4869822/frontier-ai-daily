@@ -1,0 +1,433 @@
+{
+  "date": "2026-07-18",
+  "window": {
+    "from": "2026-07-17T11:00:00.000Z",
+    "to": "2026-07-18T11:00:00.000Z"
+  },
+  "generatedBy": "frontier-ai-daily edition generator",
+  "generatedAt": "2026-07-21T16:20:47.225Z",
+  "github": [
+    {
+      "id": 1061953414,
+      "name": "skills",
+      "fullName": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "language": "Python",
+      "stars": 163151,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    },
+    {
+      "id": 1075372545,
+      "name": "agency-agents",
+      "fullName": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "language": "Shell",
+      "stars": 135323,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/1972242?v=4",
+      "descZh": "关于前端"
+    },
+    {
+      "id": 152870372,
+      "name": "weekly",
+      "fullName": "ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "url": "https://github.com/ruanyf/weekly",
+      "language": null,
+      "stars": 97379,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/905434?v=4",
+      "descZh": "科技爱好者周刊，每周五发布"
+    },
+    {
+      "id": 909213664,
+      "name": "TradingAgents",
+      "fullName": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "language": "Python",
+      "stars": 93951,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/192884433?v=4",
+      "descZh": "涉及大语言模型与框架"
+    },
+    {
+      "id": 32689863,
+      "name": "manim",
+      "fullName": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "url": "https://github.com/3b1b/manim",
+      "language": "Python",
+      "stars": 88752,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/11601040?v=4"
+    },
+    {
+      "id": 1158722119,
+      "name": "agent-skills",
+      "fullName": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "language": "JavaScript",
+      "stars": 79637,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/110953?v=4",
+      "descZh": "关于编程智能体"
+    },
+    {
+      "id": 51117837,
+      "name": "models",
+      "fullName": "tensorflow/models",
+      "description": "Models and examples built with TensorFlow",
+      "url": "https://github.com/tensorflow/models",
+      "language": "Python",
+      "stars": 77671,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/15658638?v=4",
+      "descZh": "关于用户界面"
+    },
+    {
+      "id": 1006414368,
+      "name": "OpenCut",
+      "fullName": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "language": "TypeScript",
+      "stars": 76867,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/217499887?v=4",
+      "descZh": "涉及开源与远程代码执行"
+    },
+    {
+      "id": 641656392,
+      "name": "union",
+      "fullName": "unionlabs/union",
+      "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+      "url": "https://github.com/unionlabs/union",
+      "language": "Rust",
+      "stars": 73890,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/129756567?v=4",
+      "descZh": "关于Rust的内容"
+    },
+    {
+      "id": 44571718,
+      "name": "awesome-vue",
+      "fullName": "vuejs/awesome-vue",
+      "description": "🎉 A curated list of awesome things related to Vue.js",
+      "url": "https://github.com/vuejs/awesome-vue",
+      "language": null,
+      "stars": 73563,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6128107?v=4",
+      "descZh": "关于Vue的内容"
+    },
+    {
+      "id": 646410686,
+      "name": "LlamaFactory",
+      "fullName": "hiyouga/LlamaFactory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "language": "Python",
+      "stars": 73423,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/16256802?v=4",
+      "descZh": "涉及大语言模型与微调"
+    },
+    {
+      "id": 895508656,
+      "name": "ai-agents-for-beginners",
+      "fullName": "microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "language": "Jupyter Notebook",
+      "stars": 70009,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "descZh": "关于AI 智能体的内容"
+    },
+    {
+      "id": 3638964,
+      "name": "ansible",
+      "fullName": "ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+      "url": "https://github.com/ansible/ansible",
+      "language": "Python",
+      "stars": 69653,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/1507452?v=4",
+      "descZh": "关于云的内容"
+    },
+    {
+      "id": 1052050442,
+      "name": "hello-agents",
+      "fullName": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "language": "Python",
+      "stars": 67704,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/46047812?v=4",
+      "descZh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "id": 666299222,
+      "name": "openinterpreter",
+      "fullName": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "language": "Rust",
+      "stars": 67014,
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/163192481?v=4",
+      "descZh": "关于Kimi的内容"
+    }
+  ],
+  "news": [
+    {
+      "id": 48956688,
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "points": 1216,
+      "comments": 635,
+      "createdAt": 1784370079,
+      "titleZh": "关于Windows的内容"
+    },
+    {
+      "id": 48949551,
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "points": 825,
+      "comments": 107,
+      "createdAt": 1784307447
+    },
+    {
+      "id": 48954851,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "points": 722,
+      "comments": 69,
+      "createdAt": 1784344460
+    },
+    {
+      "id": 48952880,
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "points": 562,
+      "comments": 378,
+      "createdAt": 1784327190
+    },
+    {
+      "id": 48947560,
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "points": 536,
+      "comments": 310,
+      "createdAt": 1784297173
+    },
+    {
+      "id": 48947825,
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "points": 484,
+      "comments": 357,
+      "createdAt": 1784298670,
+      "titleZh": "涉及开源与远程代码执行"
+    },
+    {
+      "id": 48946010,
+      "title": "Evidence of inconsistencies in evaluation process and selection of winners",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "points": 474,
+      "comments": 298,
+      "createdAt": 1784287800
+    },
+    {
+      "id": 48946303,
+      "title": "Apple targets dozens of OpenAI employees with legal letters",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+      "points": 410,
+      "comments": 387,
+      "createdAt": 1784289759,
+      "titleZh": "涉及苹果与OpenAI"
+    },
+    {
+      "id": 48947717,
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "points": 405,
+      "comments": 222,
+      "createdAt": 1784298111,
+      "titleZh": "涉及Kimi与基准测试"
+    },
+    {
+      "id": 48950122,
+      "title": "Learning a few things about running SQLite",
+      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+      "points": 338,
+      "comments": 89,
+      "createdAt": 1784310341,
+      "titleZh": "关于SQL的内容"
+    },
+    {
+      "id": 48951461,
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "points": 288,
+      "comments": 119,
+      "createdAt": 1784317262
+    },
+    {
+      "id": 48947490,
+      "title": "Three ways people respond to a problem (other than solving it)",
+      "url": "https://improvesomething.today/responses-to-problems/",
+      "points": 275,
+      "comments": 165,
+      "createdAt": 1784296804
+    },
+    {
+      "id": 48952565,
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "points": 235,
+      "comments": 88,
+      "createdAt": 1784324563
+    },
+    {
+      "id": 48947455,
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "points": 203,
+      "comments": 167,
+      "createdAt": 1784296564
+    },
+    {
+      "id": 48952939,
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "points": 199,
+      "comments": 307,
+      "createdAt": 1784327755
+    },
+    {
+      "id": 48951898,
+      "title": "Static search trees: 40x faster than binary search (2024)",
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "points": 198,
+      "comments": 15,
+      "createdAt": 1784319895
+    },
+    {
+      "id": 48952439,
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "points": 196,
+      "comments": 118,
+      "createdAt": 1784323373
+    },
+    {
+      "id": 48956231,
+      "title": "The Computer at the Bottom of a Canal",
+      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
+      "points": 182,
+      "comments": 48,
+      "createdAt": 1784363611
+    },
+    {
+      "id": 48947548,
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "points": 181,
+      "comments": 63,
+      "createdAt": 1784297115,
+      "titleZh": "关于Show HN的内容"
+    },
+    {
+      "id": 48955042,
+      "title": "Show HN: IKEA Complexity Index",
+      "url": "https://ikea.greg.technology/",
+      "points": 178,
+      "comments": 87,
+      "createdAt": 1784346702,
+      "titleZh": "关于Show HN的内容"
+    }
+  ],
+  "papers": [
+    {
+      "id": "2607.18237v1",
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+      "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering no mechanism to condition on specific aspects. To bridge this g",
+      "url": "https://arxiv.org/abs/2607.18237v1",
+      "titleZh": "关于远程代码执行的内容",
+      "summaryZh": "关于远程代码执行的内容"
+    },
+    {
+      "id": "2607.18236v1",
+      "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+      "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones trained from scratch, sacrificing both fine-grained spatial deta",
+      "url": "https://arxiv.org/abs/2607.18236v1",
+      "summaryZh": "涉及预训练、Transformer、机器人等方向"
+    },
+    {
+      "id": "2607.18235v1",
+      "title": "Automated Discovery Has No Universally Superior Harness",
+      "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about archives, parent selection, exploration, and budget allocation into a single recipe. Because discovery",
+      "url": "https://arxiv.org/abs/2607.18235v1"
+    },
+    {
+      "id": "2607.18232v1",
+      "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+      "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledge. Notably, users' expressions of belief (EoBs) can take linguistically diverse forms - using presup",
+      "url": "https://arxiv.org/abs/2607.18232v1",
+      "titleZh": "关于大语言模型的内容",
+      "summaryZh": "关于大语言模型的内容"
+    },
+    {
+      "id": "2607.18230v1",
+      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+      "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution shifts. This work studies domain generalization for pixel-level im",
+      "url": "https://arxiv.org/abs/2607.18230v1",
+      "summaryZh": "关于语言模型的内容"
+    },
+    {
+      "id": "2607.18228v1",
+      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
+      "summary": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we characterize them through the behavior they induce across controlled vari",
+      "url": "https://arxiv.org/abs/2607.18228v1",
+      "summaryZh": "关于基准测试的内容"
+    },
+    {
+      "id": "2607.18227v1",
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "summary": "In line with the prevailing direction of vision research, we explore the integration of both generation and editing capabilities for video and image modalities within a single model. Current approaches to collecting video editing data typically depend on labour-intensive, time-consuming curated proc",
+      "url": "https://arxiv.org/abs/2607.18227v1",
+      "summaryZh": "关于研究"
+    },
+    {
+      "id": "2607.18226v1",
+      "title": "Causal Discovery on Irregular Time Series",
+      "summary": "Causal discovery methods have shown strong performance in temporal systems, but they typically rely on regular and discrete lag structures, limiting their applicability to regularly sampled data. However, many real-world tasks require dealing with irregularly sampled streams of events, such as senso",
+      "url": "https://arxiv.org/abs/2607.18226v1",
+      "summaryZh": "关于用户界面"
+    },
+    {
+      "id": "2607.18225v1",
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "summary": "We propose one-step and two-step methods for policy learning with retrieval-augmented generation (RAG). We formulate RAG-based action selection under the potential outcome framework. In the two-step method, vector search retrieves action-specific neighboring evidence in an embedding space, the gener",
+      "url": "https://arxiv.org/abs/2607.18225v1",
+      "titleZh": "关于检索增强生成(RAG)的内容",
+      "summaryZh": "涉及检索增强生成(RAG)与框架"
+    },
+    {
+      "id": "2607.18218v1",
+      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
+      "summary": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology data. A growing landscape of pathology foundation models now spa",
+      "url": "https://arxiv.org/abs/2607.18218v1",
+      "titleZh": "关于基础模型的内容",
+      "summaryZh": "涉及基础模型与远程代码执行"
+    },
+    {
+      "id": "2607.18217v1",
+      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
+      "summary": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still struggle to strike a balance between high subject fidelity and a",
+      "url": "https://arxiv.org/abs/2607.18217v1",
+      "titleZh": "涉及多模态与Intel"
+    },
+    {
+      "id": "2607.18213v1",
+      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+      "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of c",
+      "url": "https://arxiv.org/abs/2607.18213v1",
+      "titleZh": "关于大语言模型的内容"
+    }
+  ],
+  "articles": []
+}
