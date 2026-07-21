@@ -2,8 +2,9 @@
 
 > Frontier AI Daily — 聚合全球 AI 与软件工程前沿信号，AI 深度评论 + 学习路径，图文并茂，每天 19:00 自动更新。
 
-[![GitHub](https://img.shields.io/badge/GitHub-LTY4869822%2Ffrontier--ai--daily-22d3ee?style=for-the-badge&logo=github)](https://github.com/LTY4869822/frontier-ai-daily)
-[![Deploy to Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FLTY4869822%2Ffrontier-ai-daily)
+[![Website](https://img.shields.io/badge/🌐_在线访问-frontier--ai--daily.vercel.app-22d3ee?style=for-the-badge)](https://frontier-ai-daily.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-LTY4869822%2Ffrontier--ai--daily-333?style=for-the-badge&logo=github)](https://github.com/LTY4869822/frontier-ai-daily)
+[![Deploy to Vercel](https://img.shields.io/badge/Deploy-Vercel-000?style=for-the-badge&logo=vercel)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FLTY4869822%2Ffrontier-ai-daily)
 
 ## ✨ 功能
 
