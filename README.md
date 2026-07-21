@@ -2,7 +2,8 @@
 
 > Frontier AI Daily — 聚合全球 AI 与软件工程前沿信号，AI 深度评论 + 学习路径，图文并茂，每天 19:00 自动更新。
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge)](https://frontier-ai-daily.workbuddy.cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-LTY4869822%2Ffrontier--ai--daily-22d3ee?style=for-the-badge&logo=github)](https://github.com/LTY4869822/frontier-ai-daily)
+[![Deploy to Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2FLTY4869822%2Ffrontier-ai-daily)
 
 ## ✨ 功能
 
@@ -99,6 +100,16 @@ npm run dev
 - 内容窗口：前一天 19:00 → 当天 19:00
 - 信号页面：每 5 分钟自动刷新实时数据
 
-## 📄 许可证
+## 🚀 部署上线
+
+本项目基于 Next.js 14，推荐部署到 [Vercel](https://vercel.com)（免费，原生支持 Next.js SSR 和 API Routes）：
+
+1. Fork 或克隆本仓库到你的 GitHub
+2. 打开 [vercel.com/import](https://vercel.com/import)
+3. 选择 `frontier-ai-daily` 仓库
+4. 无需修改任何配置，直接点 Deploy
+5. 获得 `https://你的项目.vercel.app` 域名
+
+部署后所有功能均可正常使用——实时信号、收藏夹跨设备同步、PDF 周报导出、全局搜索。
 
 仅供学习参考。数据来源：GitHub · Hacker News · ArXiv · dev.to
