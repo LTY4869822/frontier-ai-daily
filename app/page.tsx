@@ -26,16 +26,16 @@ import { cn, formatNumber } from "@/lib/utils";
 import DailyHighlight from "@/components/DailyHighlight";
 
 /* ================================================
-   CURATED IMAGES — editorial style, less AI-looking
+   CURATED IMAGES — smaller sizes for mobile, quality for desktop
    ================================================ */
 const IMG_HERO =
-  "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1920&q=90";
+  "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=1200&q=80";
 const IMG_DIVIDER =
-  "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&q=80";
+  "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1000&q=70";
 const IMG_MOUNTAINS =
-  "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1920&q=80";
+  "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1000&q=70";
 const IMG_CITY =
-  "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1920&q=80";
+  "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1000&q=70";
 
 /* ================================================
    TODAY PULSE — live signal preview
@@ -73,10 +73,10 @@ export default function HomePage() {
       {/* ============================================ */}
       {/* HERO — editorial statement                     */}
       {/* ============================================ */}
-      <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
-        {/* Mountain background — vast, human, editorial */}
+      <section className="relative min-h-[70vh] sm:min-h-[90vh] flex items-center justify-center overflow-hidden">
+        {/* Mountain background */}
         <div
-          className="absolute inset-0 bg-cover bg-center bg-no-repeat bg-fixed"
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat sm:bg-fixed"
           style={{ backgroundImage: `url(${IMG_HERO})` }}
         />
         {/* Subtle layered gradient — lets image breathe */}
@@ -143,7 +143,7 @@ export default function HomePage() {
       {/* ============================================ */}
       {/* DIVIDER — nature image break                  */}
       {/* ============================================ */}
-      <div className="relative h-64 sm:h-80 my-16 sm:my-20 overflow-hidden">
+      <div className="relative h-40 sm:h-80 my-12 sm:my-20 overflow-hidden">
         <img src={IMG_DIVIDER} alt="" className="w-full h-full object-cover" loading="lazy" />
         <div className="absolute inset-0 bg-gradient-to-r from-[#080b10] via-transparent to-[#080b10]" />
         <div className="absolute inset-0 flex items-center justify-center">
@@ -236,7 +236,7 @@ export default function HomePage() {
       {/* ============================================ */}
       {/* DIVIDER — cityscape                             */}
       {/* ============================================ */}
-      <div className="relative h-48 sm:h-64 overflow-hidden">
+      <div className="relative h-32 sm:h-64 overflow-hidden">
         <img src={IMG_CITY} alt="" className="w-full h-full object-cover opacity-60" loading="lazy" />
         <div className="absolute inset-0 bg-gradient-to-b from-[#080b10] via-transparent to-[#080b10]" />
       </div>
@@ -308,7 +308,7 @@ export default function HomePage() {
               desc: "每天 AI 对前沿动态生成趋势分析、要点提炼与 actionable 学习路径。",
               href: "/insights",
               btn: "查看评论",
-              img: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=600&q=80",
+              img: "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=400&q=70",
               icon: Sparkles,
               accent: "border-amber-400/30",
             },
@@ -317,7 +317,7 @@ export default function HomePage() {
               desc: "GitHub、HN、ArXiv、dev.to，四路数据源实时汇聚，按兴趣排序。",
               href: "/signals",
               btn: "浏览信号",
-              img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+              img: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&q=70",
               icon: TrendingUp,
               accent: "border-sky-400/30",
             },
@@ -326,7 +326,7 @@ export default function HomePage() {
               desc: "自动聚合 7 天热点，分类统计分布，提炼关键趋势与学习重心。",
               href: "/weekly",
               btn: "查看周报",
-              img: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+              img: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&q=70",
               icon: CalendarDays,
               accent: "border-emerald-400/30",
             },
