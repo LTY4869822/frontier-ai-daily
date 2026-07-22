@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/((?!_next|api|manifest|sw|icon).*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-store" }
+      ]
+    }
+  ]
+}
