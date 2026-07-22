@@ -47,13 +47,14 @@ function useTodayPulse() {
   useEffect(() => {
     const load = () =>
       Promise.all([
-        fetch("/api/github").then((r) => r.json()),
-        fetch("/api/news").then((r) => r.json()),
+        fetch("/api/github").then((r) => r.json()).catch(() => ({ data: [] })),
+        fetch("/api/news").then((r) => r.json()).catch(() => ({ data: [] })),
       ])
         .then(([g, n]) => {
           setGithub((g.data || []).slice(0, 3));
           setNews((n.data || []).slice(0, 3));
         })
+        .catch(() => {})
         .finally(() => setLoading(false));
     load();
     const t = setInterval(load, 300_000);

@@ -26,9 +26,9 @@ export default function DailyHighlight() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/api/github").then((r) => r.json()),
-      fetch("/api/news").then((r) => r.json()),
-      fetch("/api/papers").then((r) => r.json()),
+      fetch("/api/github").then((r) => r.json()).catch(() => ({ data: [] })),
+      fetch("/api/news").then((r) => r.json()).catch(() => ({ data: [] })),
+      fetch("/api/papers").then((r) => r.json()).catch(() => ({ data: [] })),
     ])
       .then(([g, n, p]) => {
         const github = g.data?.[0];
