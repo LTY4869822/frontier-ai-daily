@@ -52,15 +52,23 @@ export default function InterestPicker({
 
       {open && (
         <>
-          <div className="fixed inset-0 z-40" onClick={() => setOpen(false)} />
-          <div className="absolute right-0 top-full mt-2 z-50 bg-[#111318] border border-white/[0.08] rounded-2xl p-4 shadow-2xl shadow-black/50 w-[280px] sm:w-[340px]">
+          {/* Fixed overlay — full screen, click to close */}
+          <div className="fixed inset-0 z-[9998]" onClick={() => setOpen(false)} />
+
+          {/* Fixed popup — positioned centered on mobile, anchored on desktop */}
+          <div className="fixed z-[9999] bg-[#111318] border border-white/[0.12] rounded-2xl p-5 shadow-2xl shadow-black/60 w-[calc(100vw-32px)] max-w-[380px] max-h-[80vh] overflow-y-auto
+            top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2
+            sm:top-[auto] sm:left-[auto] sm:right-4 sm:translate-x-0 sm:translate-y-0
+            sm:mt-2"
+            style={{ top: open ? undefined : undefined }}
+          >
             <div className="flex items-center justify-between mb-3">
-              <h4 className="text-xs font-bold text-white/70 tracking-wide uppercase">选择兴趣标签</h4>
-              <button onClick={clear} className="text-[10px] text-white/30 hover:text-red-400 transition-colors">
+              <h4 className="text-sm font-bold text-white/80">选择兴趣标签</h4>
+              <button onClick={clear} className="text-[11px] text-white/30 hover:text-red-400 transition-colors">
                 清除全部
               </button>
             </div>
-            <div className="flex flex-wrap gap-1.5">
+            <div className="flex flex-wrap gap-2">
               {allTags.map((tag) => {
                 const active = tags.includes(tag);
                 return (
@@ -68,20 +76,20 @@ export default function InterestPicker({
                     key={tag}
                     onClick={() => toggle(tag)}
                     className={cn(
-                      "px-2.5 py-1 rounded-lg text-[11px] font-medium transition-all border",
+                      "px-3 py-1.5 rounded-lg text-xs font-medium transition-all border",
                       active
-                        ? "border-brand-cyan/30 bg-brand-cyan/10 text-brand-cyan"
-                        : "border-white/[0.06] bg-white/[0.02] text-white/40 hover:text-white/60 hover:border-white/[0.1]"
+                        ? "border-brand-cyan/40 bg-brand-cyan/15 text-brand-cyan"
+                        : "border-white/[0.08] bg-white/[0.03] text-white/50 hover:text-white/70 hover:border-white/[0.15]"
                     )}
                   >
                     {tag}
-                    {active && <X size={10} className="inline ml-1 opacity-60" />}
+                    {active && <X size={12} className="inline ml-1 opacity-60" />}
                   </button>
                 );
               })}
             </div>
-            <p className="mt-3 text-[10px] text-white/20 leading-relaxed">
-              选择你关注的领域，信号页和首页会优先展示相关内容。
+            <p className="mt-4 text-[11px] text-white/25 leading-relaxed">
+              选择你关注的领域，信号页和首页会优先展示相关内容。刷新后保持选择。
             </p>
           </div>
         </>
